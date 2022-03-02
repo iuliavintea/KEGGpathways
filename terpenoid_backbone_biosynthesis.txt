@@ -1,0 +1,22 @@
+hsa:10269            K06013 STE24 endopeptidase [EC:3.4.24.84] | (RefSeq) ZMPSTE24, FACE-1, FACE1, HGPS, PRO1, STE24, Ste 
+hsa:10654            K13273 phosphomevalonate kinase [EC:2.7.4.2] | (RefSeq) PMVK, HUMPMKI, PMK, PMKA, PMKASE, POROK1; ph 
+hsa:116150           K19177 dehydrodolichyl diphosphate syntase complex subunit NUS1 [EC:2.5.1.87] | (RefSeq) NUS1, C6orf 
+hsa:2224             K00787 farnesyl diphosphate synthase [EC:2.5.1.1 2.5.1.10] | (RefSeq) FDPS, FPPS, FPS, POROK9; farne 
+hsa:2339             K05955 protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha [EC:2.5.1.58 2.5.1 
+hsa:2342             K05954 protein farnesyltransferase subunit beta [EC:2.5.1.58] | (RefSeq) FNTB, FPTB; farnesyltransfe 
+hsa:23463            K00587 protein-S-isoprenylcysteine O-methyltransferase [EC:2.1.1.100] | (RefSeq) ICMT, HSTE14, MST09 
+hsa:23590            K12504 decaprenyl-diphosphate synthase subunit 1 [EC:2.5.1.91] | (RefSeq) PDSS1, COQ1, COQ10D2, COQ1 
+hsa:3156             K00021 hydroxymethylglutaryl-CoA reductase (NADPH) [EC:1.1.1.34] | (RefSeq) HMGCR, LDLCQ3; 3-hydroxy 
+hsa:3157             K01641 hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10] | (RefSeq) HMGCS1, HMGCS; 3-hydroxy-3-methyl 
+hsa:3158             K01641 hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10] | (RefSeq) HMGCS2; 3-hydroxy-3-methylglutary 
+hsa:3422             K01823 isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2] | (RefSeq) IDI1, IPP1, IPPI1; isopenteny 
+hsa:38               K00626 acetyl-CoA C-acetyltransferase [EC:2.3.1.9] | (RefSeq) ACAT1, ACAT, MAT, T2, THIL; acetyl-CoA 
+hsa:39               K00626 acetyl-CoA C-acetyltransferase [EC:2.3.1.9] | (RefSeq) ACAT2; acetyl-CoA acetyltransferase 2 
+hsa:4597             K01597 diphosphomevalonate decarboxylase [EC:4.1.1.33] | (RefSeq) MVD, FP17780, MDDase, MPD, POROK7; 
+hsa:4598             K00869 mevalonate kinase [EC:2.7.1.36] | (RefSeq) MVK, LRBP, MK, MVLK, POROK3; mevalonate kinase 
+hsa:51449            K05906 prenylcysteine oxidase / farnesylcysteine lyase [EC:1.8.3.5 1.8.3.6] | (RefSeq) PCYOX1, PCL1; 
+hsa:57107            K12505 decaprenyl-diphosphate synthase subunit 2 [EC:2.5.1.91] | (RefSeq) PDSS2, C6orf210, COQ10D3,  
+hsa:79947            K11778 ditrans,polycis-polyprenyl diphosphate synthase [EC:2.5.1.87] | (RefSeq) DHDDS, CIT, CPT, DED 
+hsa:91734            K01823 isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2] | (RefSeq) IDI2, IPPI2; isopentenyl-diph 
+hsa:9453             K00804 geranylgeranyl diphosphate synthase, type III [EC:2.5.1.1 2.5.1.10 2.5.1.29] | (RefSeq) GGPS1 
+hsa:9986             K08658 prenyl protein peptidase [EC:3.4.22.-] | (RefSeq) RCE1, FACE2, RCE1A, RCE1B; Ras converting C 

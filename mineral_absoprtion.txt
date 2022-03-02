@@ -1,0 +1,60 @@
+hsa:10568            K14683 solute carrier family 34 (sodium-dependent phosphate cotransporter) | (RefSeq) SLC34A2, NAPI- 
+hsa:113235           K14613 MFS transporter, PCFT/HCP family, solute carrier family 46 (folate transporter), member 1 | ( 
+hsa:115019           K14706 solute carrier family 26 (sulfate anion transporter), member 9 | (RefSeq) SLC26A9; solute car 
+hsa:1181             K05011 chloride channel 2 | (RefSeq) CLCN2, CIC-2, CLC2, ECA2, ECA3, EGI11, EGI3, EGMA, EJM6, EJM8,  
+hsa:1317             K14686 solute carrier family 31 (copper transporter), member 1 | (RefSeq) SLC31A1, COPT1, CTR1; solu 
+hsa:140803           K04981 transient receptor potential cation channel subfamily M member 6 [EC:2.7.11.1] | (RefSeq) TRP 
+hsa:142680           K14683 solute carrier family 34 (sodium-dependent phosphate cotransporter) | (RefSeq) SLC34A3, HHRH, 
+hsa:1811             K14078 solute carrier family 26 (chloride anion exchanger), member 3 | (RefSeq) SLC26A3, CLD, DRA; s 
+hsa:23439            K01540 sodium/potassium-transporting ATPase subunit beta | (RefSeq) ATP1B4; ATPase Na+/K+ transporti 
+hsa:2495             K00522 ferritin heavy chain [EC:1.16.3.2] | (RefSeq) FTH1, FHC, FTH, FTHL6, HFE5, PIG15, PLIF; ferri 
+hsa:2512             K13625 ferritin light chain | (RefSeq) FTL, LFTD, NBIA3; ferritin light chain 
+hsa:261729           K14738 metalloreductase STEAP2 [EC:1.16.1.-] | (RefSeq) STEAP2, IPCA1, PCANAP1, PUMPCn, STAMP1, STMP 
+hsa:26872            K14737 metalloreductase STEAP1 [EC:1.16.1.-] | (RefSeq) STEAP1, PRSS24, STEAP; STEAP family member 1 
+hsa:30061            K14685 solute carrier family 40 (iron-regulated transporter), member 1 | (RefSeq) SLC40A1, FPN1, HFE 
+hsa:3162             K00510 heme oxygenase 1 [EC:1.14.14.18] | (RefSeq) HMOX1, HMOX1D, HO-1, HSP32, bK286B10; heme oxygen 
+hsa:3163             K21418 heme oxygenase 2 [EC:1.14.14.18] | (RefSeq) HMOX2, HO-2; heme oxygenase 2 
+hsa:340024           K05334 solute carrier family 6 (neurotransmitter transporter) member 19 | (RefSeq) SLC6A19, B0AT1, H 
+hsa:341208           K14735 hephaestin [EC:1.16.3.1] | (RefSeq) HEPHL1, HJDD, ZP; hephaestin like 1 
+hsa:4489             K14739 metallothionein 1/2 | (RefSeq) MT1A, MT-1A, MT-IA, MT1, MT1S, MTC; metallothionein 1A 
+hsa:4490             K14739 metallothionein 1/2 | (RefSeq) MT1B, MT-1B, MT-IB, MT1, MT1Q, MTP; metallothionein 1B 
+hsa:4493             K14739 metallothionein 1/2 | (RefSeq) MT1E, MT-1E, MT-IE, MT1, MTD; metallothionein 1E 
+hsa:4494             K14739 metallothionein 1/2 | (RefSeq) MT1F, MT1; metallothionein 1F 
+hsa:4495             K14739 metallothionein 1/2 | (RefSeq) MT1G, MT1, MT1K; metallothionein 1G 
+hsa:4496             K14739 metallothionein 1/2 | (RefSeq) MT1H, MT-0, MT-1H, MT-IH, MT1; metallothionein 1H 
+hsa:4499             K14739 metallothionein 1/2 | (RefSeq) MT1M, MT-1M, MT-IM, MT1, MT1K; metallothionein 1M 
+hsa:4501             K14739 metallothionein 1/2 | (RefSeq) MT1X, MT-1l, MT1; metallothionein 1X 
+hsa:4502             K14739 metallothionein 1/2 | (RefSeq) MT2A, MT-2, MT-II, MT2; metallothionein 2A 
+hsa:475              K07213 copper chaperone | (RefSeq) ATOX1, ATX1, HAH1; antioxidant 1 copper chaperone 
+hsa:476              K01539 sodium/potassium-transporting ATPase subunit alpha [EC:7.2.2.13] | (RefSeq) ATP1A1, CMT2DD, H 
+hsa:477              K01539 sodium/potassium-transporting ATPase subunit alpha [EC:7.2.2.13] | (RefSeq) ATP1A2, DEE98, FA 
+hsa:478              K01539 sodium/potassium-transporting ATPase subunit alpha [EC:7.2.2.13] | (RefSeq) ATP1A3, AHC2, ATP 
+hsa:480              K01539 sodium/potassium-transporting ATPase subunit alpha [EC:7.2.2.13] | (RefSeq) ATP1A4, ATP1A1, A 
+hsa:481              K01540 sodium/potassium-transporting ATPase subunit beta | (RefSeq) ATP1B1, ATP1B; ATPase Na+/K+ tra 
+hsa:482              K01540 sodium/potassium-transporting ATPase subunit beta | (RefSeq) ATP1B2, AMOG; ATPase Na+/K+ tran 
+hsa:483              K01540 sodium/potassium-transporting ATPase subunit beta | (RefSeq) ATP1B3, ATPB-3, CD298; ATPase Na 
+hsa:486              K01538 sodium/potassium-transporting ATPase subunit gamma (FXYD domain-containing ion transport regu 
+hsa:4891             K21398 natural resistance-associated macrophage protein 2 | (RefSeq) SLC11A2, AHMIO1, DCT1, DMT1, NR 
+hsa:490              K05850 P-type Ca2+ transporter type 2B [EC:7.2.2.10] | (RefSeq) ATP2B1, PMCA1, PMCA1kb; ATPase plasm 
+hsa:491              K05850 P-type Ca2+ transporter type 2B [EC:7.2.2.10] | (RefSeq) ATP2B2, PMCA2, PMCA2a, PMCA2i; ATPas 
+hsa:492              K05850 P-type Ca2+ transporter type 2B [EC:7.2.2.10] | (RefSeq) ATP2B3, CFAP39, CLA2, OPCA, PMCA3, P 
+hsa:493              K05850 P-type Ca2+ transporter type 2B [EC:7.2.2.10] | (RefSeq) ATP2B4, ATP2B2, MXRA1, PMCA4, PMCA4b 
+hsa:538              K17686 P-type Cu+ transporter [EC:7.2.2.8] | (RefSeq) ATP7A, DSMAX, MK, MNK, SMAX3; ATPase copper tr 
+hsa:540              K17686 P-type Cu+ transporter [EC:7.2.2.8] | (RefSeq) ATP7B, PWD, WC1, WD, WND; ATPase copper transp 
+hsa:54822            K04982 transient receptor potential cation channel subfamily M member 7 [EC:2.7.11.1] | (RefSeq) TRP 
+hsa:55503            K04975 transient receptor potential cation channel subfamily V member 6 | (RefSeq) TRPV6, ABP/ZF, CA 
+hsa:55630            K14710 solute carrier family 39 (zinc transporter), member 4 | (RefSeq) SLC39A4, AEZ, AWMS2, ZIP4; s 
+hsa:645745           K14739 metallothionein 1/2 | (RefSeq) MT1HL1, MT1P2; metallothionein 1H like 1 
+hsa:65010            K14704 solute carrier family 26 (sulfate anion transporter), member 6 | (RefSeq) SLC26A6; solute car 
+hsa:6523             K14158 solute carrier family 5 (sodium/glucose cotransporter), member 1 | (RefSeq) SLC5A1, D22S675,  
+hsa:6543             K05849 solute carrier family 8 (sodium/calcium exchanger) | (RefSeq) SLC8A2, NCX2; solute carrier fa 
+hsa:6546             K05849 solute carrier family 8 (sodium/calcium exchanger) | (RefSeq) SLC8A1, NCX1; solute carrier fa 
+hsa:6547             K05849 solute carrier family 8 (sodium/calcium exchanger) | (RefSeq) SLC8A3, NCX3; solute carrier fa 
+hsa:6550             K12040 solute carrier family 9 (sodium/hydrogen exchanger), member 3 | (RefSeq) SLC9A3, DIAR8, NHE-3 
+hsa:6569             K14683 solute carrier family 34 (sodium-dependent phosphate cotransporter) | (RefSeq) SLC34A1, FRTS2 
+hsa:7018             K14736 transferrin | (RefSeq) TF, HEL-S-71p, PRO1557, PRO2086, TFQTL1; transferrin 
+hsa:7421             K08539 vitamin D3 receptor | (RefSeq) VDR, NR1I1, PPP1R163; vitamin D receptor 
+hsa:7779             K14688 solute carrier family 30 (zinc transporter), member 1 | (RefSeq) SLC30A1, ZNT1, ZRC1; solute  
+hsa:795              K14734 protein S100-G | (RefSeq) S100G, CABP, CABP1, CABP9K, CALB3; S100 calcium binding protein G 
+hsa:79901            K08370 plasma membrane ascorbate-dependent reductase [EC:7.2.1.3] | (RefSeq) CYBRD1, CYB561A2, DCYTB 
+hsa:9843             K14735 hephaestin [EC:1.16.3.1] | (RefSeq) HEPH, CPL; hephaestin 

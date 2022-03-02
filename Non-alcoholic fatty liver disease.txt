@@ -1,0 +1,155 @@
+hsa:10000            K04456 RAC serine/threonine-protein kinase [EC:2.7.11.1] | (RefSeq) AKT3, MPPH, MPPH2, PKB-GAMMA, PK 
+hsa:10018            K16341 Bcl-2-like protein 11 | (RefSeq) BCL2L11, BAM, BIM, BOD; BCL2 like 11 
+hsa:100532726        K03968 NADH dehydrogenase (ubiquinone) 1 subunit C2 | (RefSeq) NDUFC2-KCTD14; NDUFC2-KCTD14 readthro 
+hsa:10062            K08536 liver X receptor alpha | (RefSeq) NR1H3, LXR-a, LXRA, RLD-1; nuclear receptor subfamily 1 gro 
+hsa:1050             K09055 CCAAT/enhancer binding protein (C/EBP), alpha | (RefSeq) CEBPA, C/EBP-alpha, CEBP; CCAAT enha 
+hsa:10975            K00420 ubiquinol-cytochrome c reductase subunit 10 | (RefSeq) UQCR11, 0710008D09Rik, QCR10, UQCR; ub 
+hsa:125965           K02267 cytochrome c oxidase subunit 6b | (RefSeq) COX6B2, COXVIB2, CT59; cytochrome c oxidase subuni 
+hsa:126328           K03956 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 11 | (RefSeq) NDUFA11, B14.7, CI-B 
+hsa:1327             K02263 cytochrome c oxidase subunit 4 | (RefSeq) COX4I1, COX_IV-1, COX4, COX4-1, COXIV, COXIV-1, MC4 
+hsa:1329             K02265 cytochrome c oxidase subunit 5b | (RefSeq) COX5B, COXVB; cytochrome c oxidase subunit 5B 
+hsa:1337             K02266 cytochrome c oxidase subunit 6a | (RefSeq) COX6A1, CMTRID, COX6A, COX6AL; cytochrome c oxidas 
+hsa:1339             K02266 cytochrome c oxidase subunit 6a | (RefSeq) COX6A2, COX6AH, COXVIAH, COXVIa-M, MC4DN18; cytoch 
+hsa:1340             K02267 cytochrome c oxidase subunit 6b | (RefSeq) COX6B1, COX6B, COXG, COXVIb1, MC4DN7; cytochrome c 
+hsa:1345             K02268 cytochrome c oxidase subunit 6c | (RefSeq) COX6C; cytochrome c oxidase subunit 6C 
+hsa:1346             K02270 cytochrome c oxidase subunit 7a | (RefSeq) COX7A1, COX7A, COX7AH, COX7AM; cytochrome c oxidas 
+hsa:1347             K02270 cytochrome c oxidase subunit 7a | (RefSeq) COX7A2, COX7AL, COX7AL1, COXVIIAL, COXVIIa-L, VIIA 
+hsa:1349             K02271 cytochrome c oxidase subunit 7b | (RefSeq) COX7B, APLCC, LSDMCA2; cytochrome c oxidase subuni 
+hsa:1350             K02272 cytochrome c oxidase subunit 7c | (RefSeq) COX7C; cytochrome c oxidase subunit 7C 
+hsa:1351             K02273 cytochrome c oxidase subunit 8 | (RefSeq) COX8A, COX, COX8, COX8-2, COX8L, MC4DN15, VIII, VII 
+hsa:1432             K04441 p38 MAP kinase [EC:2.7.11.24] | (RefSeq) MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM1 
+hsa:1537             K00413 ubiquinol-cytochrome c reductase cytochrome c1 subunit | (RefSeq) CYC1, MC3DN6, UQCR4; cytoch 
+hsa:1571             K07415 cytochrome P450 family 2 subfamily E1 [EC:1.14.14.-] | (RefSeq) CYP2E1, CPE1, CYP2E, P450-J,  
+hsa:1649             K04452 DNA damage-inducible transcript 3 | (RefSeq) DDIT3, AltDDIT3, C/EBPzeta, CEBPZ, CHOP, CHOP-10 
+hsa:170712           K02271 cytochrome c oxidase subunit 7b | (RefSeq) COX7B2; cytochrome c oxidase subunit 7B2 
+hsa:1965             K03237 translation initiation factor 2 subunit 1 | (RefSeq) EIF2S1, EIF-2, EIF-2A, EIF-2alpha, EIF2, 
+hsa:207              K04456 RAC serine/threonine-protein kinase [EC:2.7.11.1] | (RefSeq) AKT1, AKT, PKB, PKB-ALPHA, PRKBA 
+hsa:208              K04456 RAC serine/threonine-protein kinase [EC:2.7.11.1] | (RefSeq) AKT2, HIHGHH, PKBB, PKBBETA, PRK 
+hsa:2081             K08852 serine/threonine-protein kinase/endoribonuclease IRE1 [EC:2.7.11.1 3.1.26.-] | (RefSeq) ERN1, 
+hsa:22877            K09113 MAX-like protein X | (RefSeq) MLXIP, MIR, MONDOA, bHLHe36; MLX interacting protein 
+hsa:2353             K04379 proto-oncogene protein c-fos | (RefSeq) FOS, AP-1, C-FOS, p55; Fos proto-oncogene, AP-1 trans 
+hsa:27089            K00418 ubiquinol-cytochrome c reductase subunit 8 | (RefSeq) UQCRQ, MC3DN4, QCR8, QP-C, QPC, UQCR7;  
+hsa:2931             K08822 glycogen synthase kinase 3 alpha [EC:2.7.11.26] | (RefSeq) GSK3A; glycogen synthase kinase 3  
+hsa:2932             K03083 glycogen synthase kinase 3 beta [EC:2.7.11.26] | (RefSeq) GSK3B; glycogen synthase kinase 3 b 
+hsa:29796            K00419 ubiquinol-cytochrome c reductase subunit 9 | (RefSeq) UQCR10, HSPC051, HSPC119, HSPC151, QCR9 
+hsa:341947           K02273 cytochrome c oxidase subunit 8 | (RefSeq) COX8C, COX8-3; cytochrome c oxidase subunit 8C 
+hsa:355              K04390 tumor necrosis factor receptor superfamily member 6 | (RefSeq) FAS, ALPS1A, APO-1, APT1, CD95 
+hsa:3551             K07209 inhibitor of nuclear factor kappa-B kinase subunit beta [EC:2.7.11.10] | (RefSeq) IKBKB, IKK- 
+hsa:3552             K04383 interleukin 1 alpha | (RefSeq) IL1A, IL-1_alpha, IL-1A, IL1, IL1-ALPHA, IL1F1; interleukin 1  
+hsa:3553             K04519 interleukin 1 beta | (RefSeq) IL1B, IL-1, IL1-BETA, IL1F2, IL1beta; interleukin 1 beta 
+hsa:356              K04389 tumor necrosis factor ligand superfamily member 6 | (RefSeq) FASLG, ALPS1B, APT1LG1, APTL, CD 
+hsa:3569             K05405 interleukin 6 | (RefSeq) IL6, BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6; interleuki 
+hsa:3570             K05055 interleukin 6 receptor | (RefSeq) IL6R, CD126, HIES5, IL-1Ra, IL-6R, IL-6R-1, IL-6RA, IL6Q, I 
+hsa:3576             K10030 interleukin 8 | (RefSeq) CXCL8, GCP-1, GCP1, IL8, LECT, LUCT, LYNAP, MDNCF, MONAP, NAF, NAP-1 
+hsa:3630             K04526 insulin | (RefSeq) INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10, PNDM4; insulin 
+hsa:3643             K04527 insulin receptor [EC:2.7.10.1] | (RefSeq) INSR, CD220, HHF5; insulin receptor 
+hsa:3667             K16172 insulin receptor substrate 1 | (RefSeq) IRS1, HIRS-1; insulin receptor substrate 1 
+hsa:3725             K04448 transcription factor AP-1 | (RefSeq) JUN, AP-1, AP1, c-Jun, cJUN, p39; Jun proto-oncogene, AP 
+hsa:374291           K03940 NADH dehydrogenase (ubiquinone) Fe-S protein 7 [EC:7.1.1.2] | (RefSeq) NDUFS7, CI-20, CI-20KD 
+hsa:3952             K05424 leptin | (RefSeq) LEP, LEPD, OB, OBS; leptin 
+hsa:3953             K05062 leptin receptor | (RefSeq) LEPR, CD295, LEP-R, LEPRD, OB-R, OBR; leptin receptor 
+hsa:4217             K04426 mitogen-activated protein kinase kinase kinase 5 [EC:2.7.11.25] | (RefSeq) MAP3K5, ASK1, MAPK 
+hsa:4296             K04419 mitogen-activated protein kinase kinase kinase 11 [EC:2.7.11.25] | (RefSeq) MAP3K11, MEKK11,  
+hsa:440567           K00416 ubiquinol-cytochrome c reductase subunit 6 | (RefSeq) UQCRHL, hCG25371; ubiquinol-cytochrome  
+hsa:4512             K02256 cytochrome c oxidase subunit 1 [EC:7.1.1.9] | (RefSeq) COX1, COI, MTCO1, MT-CO1; cytochrome c 
+hsa:4513             K02261 cytochrome c oxidase subunit 2 | (RefSeq) COX2, COII, MTCO2, MT-CO2; cytochrome c oxidase sub 
+hsa:4514             K02262 cytochrome c oxidase subunit 3 | (RefSeq) COX3, COIII, MTCO3, MT-CO3; cytochrome c oxidase su 
+hsa:4519             K00412 ubiquinol-cytochrome c reductase cytochrome b subunit | (RefSeq) CYTB, MTCYB, MT-CYB; cytochr 
+hsa:468              K04374 cyclic AMP-dependent transcription factor ATF-4 | (RefSeq) ATF4, CREB-2, CREB2, TAXREB67, TXR 
+hsa:4694             K03945 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 1 | (RefSeq) NDUFA1, CI-MWFE, MC1D 
+hsa:4695             K03946 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 2 | (RefSeq) NDUFA2, B8, CD14, CIB 
+hsa:4696             K03947 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 3 | (RefSeq) NDUFA3, B9, CI-B9; NA 
+hsa:4697             K03948 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 4 | (RefSeq) NDUFA4, CI-9k, CI-MLR 
+hsa:4698             K03949 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 5 | (RefSeq) NDUFA5, B13, CI-13KD- 
+hsa:4700             K03950 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 6 | (RefSeq) NDUFA6, B14, CI-B14,  
+hsa:4701             K03951 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 7 | (RefSeq) NDUFA7, B14.5a, CI-B1 
+hsa:4702             K03952 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 8 | (RefSeq) NDUFA8, CI-19KD, CI-P 
+hsa:4704             K03953 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 9 | (RefSeq) NDUFA9, CC6, CI-39k,  
+hsa:4705             K03954 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 10 | (RefSeq) NDUFA10, CI-42KD, CI 
+hsa:4706             K03955 NADH dehydrogenase (ubiquinone) 1 alpha/beta subcomplex 1, acyl-carrier protein | (RefSeq) ND 
+hsa:4707             K03957 NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 1 | (RefSeq) NDUFB1, CI-MNLL, CI-SG 
+hsa:4708             K03958 NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 2 | (RefSeq) NDUFB2, AGGG, CI-AGGG; 
+hsa:4709             K03959 NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 3 | (RefSeq) NDUFB3, B12, CI-B12, M 
+hsa:4710             K03960 NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 4 | (RefSeq) NDUFB4, B15, CI-B15; N 
+hsa:4711             K03961 NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 5 | (RefSeq) NDUFB5, CISGDH, SGDH;  
+hsa:4712             K03962 NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 6 | (RefSeq) NDUFB6, B17, CI; NADH: 
+hsa:4713             K03963 NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 7 | (RefSeq) NDUFB7, B18, CI-B18; N 
+hsa:4714             K03964 NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 8 | (RefSeq) NDUFB8, ASHI, CI-ASHI, 
+hsa:4715             K03965 NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 9 | (RefSeq) NDUFB9, B22, CI-B22, L 
+hsa:4716             K03966 NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 10 | (RefSeq) NDUFB10, MC1DN35, PDS 
+hsa:4717             K03967 NADH dehydrogenase (ubiquinone) 1 subunit C1 | (RefSeq) NDUFC1, KFYI; NADH:ubiquinone oxidore 
+hsa:4718             K03968 NADH dehydrogenase (ubiquinone) 1 subunit C2 | (RefSeq) NDUFC2, B14.5b, CI-B14.5b, HLC-1, MC1 
+hsa:4719             K03934 NADH dehydrogenase (ubiquinone) Fe-S protein 1 [EC:7.1.1.2] | (RefSeq) NDUFS1, CI-75Kd, CI-75 
+hsa:4720             K03935 NADH dehydrogenase (ubiquinone) Fe-S protein 2 [EC:7.1.1.2] | (RefSeq) NDUFS2, CI-49, MC1DN6; 
+hsa:4722             K03936 NADH dehydrogenase (ubiquinone) Fe-S protein 3 [EC:7.1.1.2] | (RefSeq) NDUFS3, CI-30, MC1DN8; 
+hsa:4723             K03942 NADH dehydrogenase (ubiquinone) flavoprotein 1 [EC:7.1.1.2] | (RefSeq) NDUFV1, CI-51K, CI51KD 
+hsa:4724             K03937 NADH dehydrogenase (ubiquinone) Fe-S protein 4 | (RefSeq) NDUFS4, AQDQ, CI-18, CI-18_kDa, CI- 
+hsa:4725             K03938 NADH dehydrogenase (ubiquinone) Fe-S protein 5 | (RefSeq) NDUFS5, CI-15k, CI15K; NADH:ubiquin 
+hsa:4726             K03939 NADH dehydrogenase (ubiquinone) Fe-S protein 6 | (RefSeq) NDUFS6, CI-13kA, CI-13kD-A, CI13KDA 
+hsa:4728             K03941 NADH dehydrogenase (ubiquinone) Fe-S protein 8 [EC:7.1.1.2] | (RefSeq) NDUFS8, CI-23k, CI23KD 
+hsa:4729             K03943 NADH dehydrogenase (ubiquinone) flavoprotein 2 [EC:7.1.1.2] | (RefSeq) NDUFV2, CI-24k, MC1DN7 
+hsa:4731             K03944 NADH dehydrogenase (ubiquinone) flavoprotein 3 | (RefSeq) NDUFV3, CI-10k, CI-9KD; NADH:ubiqui 
+hsa:4790             K02580 nuclear factor NF-kappa-B p105 subunit | (RefSeq) NFKB1, CVID12, EBP-1, KBF1, NF-kB, NF-kB1,  
+hsa:51079            K11353 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 13 | (RefSeq) NDUFA13, B16.6, CDA0 
+hsa:51085            K09113 MAX-like protein X | (RefSeq) MLXIPL, CHREBP, MIO, MLX, MONDOB, WBSCR14, WS-bHLH, bHLHd14; ML 
+hsa:51094            K07297 adiponectin receptor | (RefSeq) ADIPOR1, ACDCR1, CGI-45, CGI45, PAQR1, TESBP1A; adiponectin r 
+hsa:51422            K07200 5'-AMP-activated protein kinase, regulatory gamma subunit | (RefSeq) PRKAG2, AAKG, AAKG2, CMH 
+hsa:5290             K00922 phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha/beta/delta [EC:2.7.1.1 
+hsa:5291             K00922 phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha/beta/delta [EC:2.7.1.1 
+hsa:5293             K00922 phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha/beta/delta [EC:2.7.1.1 
+hsa:5295             K02649 phosphoinositide-3-kinase regulatory subunit alpha/beta/delta | (RefSeq) PIK3R1, AGM7, GRB1,  
+hsa:5296             K02649 phosphoinositide-3-kinase regulatory subunit alpha/beta/delta | (RefSeq) PIK3R2, MPPH, MPPH1, 
+hsa:5313             K12406 pyruvate kinase isozymes R/L [EC:2.7.1.40] | (RefSeq) PKLR, PK1, PKL, PKRL, RPK; pyruvate kin 
+hsa:53632            K07200 5'-AMP-activated protein kinase, regulatory gamma subunit | (RefSeq) PRKAG3, AMPKG3, SMGMQTL; 
+hsa:54205            K08738 cytochrome c | (RefSeq) CYCS, CYC, HCS, THC4; cytochrome c, somatic 
+hsa:54539            K11351 NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 11 | (RefSeq) NDUFB11, CI-ESSS, ESS 
+hsa:5465             K07294 peroxisome proliferator-activated receptor alpha | (RefSeq) PPARA, NR1C1, PPAR, PPAR-alpha, P 
+hsa:5468             K08530 peroxisome proliferator-activated receptor gamma | (RefSeq) PPARG, CIMT1, GLM1, NR1C3, PPARG1 
+hsa:5562             K07198 5'-AMP-activated protein kinase, catalytic alpha subunit [EC:2.7.11.11] | (RefSeq) PRKAA1, AM 
+hsa:5563             K07198 5'-AMP-activated protein kinase, catalytic alpha subunit [EC:2.7.11.11] | (RefSeq) PRKAA2, AM 
+hsa:5564             K07199 5'-AMP-activated protein kinase, regulatory beta subunit | (RefSeq) PRKAB1, AMPK, HAMPKb; pro 
+hsa:5565             K07199 5'-AMP-activated protein kinase, regulatory beta subunit | (RefSeq) PRKAB2; protein kinase AM 
+hsa:5571             K07200 5'-AMP-activated protein kinase, regulatory gamma subunit | (RefSeq) PRKAG1, AMPKG; protein k 
+hsa:55967            K11352 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 12 | (RefSeq) NDUFA12, B17.2, DAP1 
+hsa:5599             K04440 mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24] | (RefSeq) M 
+hsa:5600             K04441 p38 MAP kinase [EC:2.7.11.24] | (RefSeq) MAPK11, P38B, P38BETA2, PRKM11, SAPK2, SAPK2B, p38-2 
+hsa:5601             K04440 mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24] | (RefSeq) M 
+hsa:5602             K04440 mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24] | (RefSeq) M 
+hsa:5603             K04441 p38 MAP kinase [EC:2.7.11.24] | (RefSeq) MAPK13, MAPK_13, MAPK-13, PRKM13, SAPK4, p38delta; m 
+hsa:56901            K03948 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 4 | (RefSeq) NDUFA4L2, COXFA4L2, M 
+hsa:581              K02159 apoptosis regulator BAX | (RefSeq) BAX, BCL2L4; BCL2 associated X, apoptosis regulator 
+hsa:5879             K04392 Ras-related C3 botulinum toxin substrate 1 | (RefSeq) RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Ra 
+hsa:5970             K04735 transcription factor p65 | (RefSeq) RELA, CMCU, NFKB3, p65; RELA proto-oncogene, NF-kB subuni 
+hsa:6256             K08524 retinoid X receptor alpha | (RefSeq) RXRA, NR2B1, RXR-alpha, RXRalpha; retinoid X receptor al 
+hsa:6300             K04441 p38 MAP kinase [EC:2.7.11.24] | (RefSeq) MAPK12, ERK-6, ERK3, ERK6, MAPK_12, P38GAMMA, PRKM12 
+hsa:637              K04726 BH3 interacting domain death agonist | (RefSeq) BID, FP497; BH3 interacting domain death agon 
+hsa:6389             K00234 succinate dehydrogenase (ubiquinone) flavoprotein subunit [EC:1.3.5.1] | (RefSeq) SDHA, CMD1G 
+hsa:6390             K00235 succinate dehydrogenase (ubiquinone) iron-sulfur subunit [EC:1.3.5.1] | (RefSeq) SDHB, CWS2,  
+hsa:6391             K00236 succinate dehydrogenase (ubiquinone) cytochrome b560 subunit | (RefSeq) SDHC, CYB560, CYBL, P 
+hsa:6392             K00237 succinate dehydrogenase (ubiquinone) membrane anchor subunit | (RefSeq) SDHD, CBT1, CII-4, CW 
+hsa:6720             K07197 sterol regulatory element-binding transcription factor 1 | (RefSeq) SREBF1, HMD, IFAP2, SREBP 
+hsa:6945             K09113 MAX-like protein X | (RefSeq) MLX, MAD7, MXD7, TCFL4, TF4, bHLHd13; MAX dimerization protein  
+hsa:7040             K13375 transforming growth factor beta-1 | (RefSeq) TGFB1, CED, DPD1, IBDIMDE, LAP, TGF-beta1, TGFB, 
+hsa:7124             K03156 tumor necrosis factor superfamily, member 2 | (RefSeq) TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNL 
+hsa:7132             K03158 tumor necrosis factor receptor superfamily member 1A | (RefSeq) TNFRSF1A, CD120a, FPF, TBP1,  
+hsa:7186             K03173 TNF receptor-associated factor 2 [EC:2.3.2.27] | (RefSeq) TRAF2, MGC:45012, RNF117, TRAP, TRA 
+hsa:7381             K00417 ubiquinol-cytochrome c reductase subunit 7 | (RefSeq) UQCRB, MC3DN3, QCR7, QP-C, QPC, UQBC, U 
+hsa:7384             K00414 ubiquinol-cytochrome c reductase core subunit 1 | (RefSeq) UQCRC1, D3S3191, PKNPY, QCR1, UQCR 
+hsa:7385             K00415 ubiquinol-cytochrome c reductase core subunit 2 | (RefSeq) UQCRC2, MC3DN5, QCR2, UQCR2; ubiqu 
+hsa:7386             K00411 ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:7.1.1.8] | (RefSeq) UQCRFS1, MC3DN10 
+hsa:7388             K00416 ubiquinol-cytochrome c reductase subunit 6 | (RefSeq) UQCRH, QCR6, UQCR8; ubiquinol-cytochrom 
+hsa:7494             K09027 X box-binding protein 1 | (RefSeq) XBP1, TREB-5, TREB5, XBP-1, XBP2; X-box binding protein 1 
+hsa:79602            K07297 adiponectin receptor | (RefSeq) ADIPOR2, ACDCR2, PAQR2; adiponectin receptor 2 
+hsa:836              K02187 caspase 3 [EC:3.4.22.56] | (RefSeq) CASP3, CPP32, CPP32B, SCA-1; caspase 3 
+hsa:83737            K05632 E3 ubiquitin-protein ligase Itchy [EC:2.3.2.26] | (RefSeq) ITCH, ADMFD, AIF4, AIP4, NAPP1; it 
+hsa:840              K04397 caspase 7 [EC:3.4.22.60] | (RefSeq) CASP7, CASP-7, CMH-1, ICE-LAP3, LICE2, MCH3; caspase 7 
+hsa:841              K04398 caspase 8 [EC:3.4.22.61] | (RefSeq) CASP8, ALPS2B, CAP4, Casp-8, FLICE, MACH, MCH5; caspase 8 
+hsa:84701            K02263 cytochrome c oxidase subunit 4 | (RefSeq) COX4I2, COX4, COX4-2, COX4B, COX4L2, COXIV-2, dJ857 
+hsa:8503             K02649 phosphoinositide-3-kinase regulatory subunit alpha/beta/delta | (RefSeq) PIK3R3, p55, p55-GAM 
+hsa:8660             K07187 insulin receptor substrate 2 | (RefSeq) IRS2, IRS-2; insulin receptor substrate 2 
+hsa:9021             K04696 suppressor of cytokine signaling 3 | (RefSeq) SOCS3, ATOD4, CIS3, Cish3, SOCS-3, SSI-3, SSI3; 
+hsa:9167             K02270 cytochrome c oxidase subunit 7a | (RefSeq) COX7A2L, COX7AR, COX7RP, EB1, SCAF1, SCAFI, SIG81; 
+hsa:9370             K07296 adiponectin | (RefSeq) ADIPOQ, ACDC, ACRP30, ADIPQTL1, ADPN, APM-1, APM1, GBP28; adiponectin, 
+hsa:9377             K02264 cytochrome c oxidase subunit 5a | (RefSeq) COX5A, COX, COX-VA, MC4DN20, VA; cytochrome c oxid 
+hsa:9451             K08860 eukaryotic translation initiation factor 2-alpha kinase 3 [EC:2.7.11.1] | (RefSeq) EIF2AK3, P 
+hsa:998              K04393 cell division control protein 42 | (RefSeq) CDC42, CDC42Hs, G25K, TKS; cell division cycle 42 

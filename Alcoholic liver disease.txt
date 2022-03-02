@@ -1,0 +1,142 @@
+hsa:10000            K04456 RAC serine/threonine-protein kinase [EC:2.7.11.1] | (RefSeq) AKT3, MPPH, MPPH2, PKB-GAMMA, PK 
+hsa:10454            K04403 TAK1-binding protein 1 | (RefSeq) TAB1, 3'-Tab1, MAP3K7IP1; TGF-beta activated kinase 1 (MAP3 
+hsa:10645            K07359 calcium/calmodulin-dependent protein kinase kinase 2 [EC:2.7.11.17] | (RefSeq) CAMKK2, CAMKK, 
+hsa:10891            K07202 alpha peroxisome proliferator-activated receptor gamma coactivator 1-alpha | (RefSeq) PPARGC1 
+hsa:114609           K05403 toll-interleukin 1 receptor (TIR) domain-containing adaptor protein | (RefSeq) TIRAP, BACTS1, 
+hsa:1147             K04467 inhibitor of nuclear factor kappa-B kinase subunit alpha [EC:2.7.11.10] | (RefSeq) CHUK, BPS2 
+hsa:124              K13951 alcohol dehydrogenase 1/7 [EC:1.1.1.1] | (RefSeq) ADH1A, ADH1; alcohol dehydrogenase 1A (clas 
+hsa:125              K13951 alcohol dehydrogenase 1/7 [EC:1.1.1.1] | (RefSeq) ADH1B, ADH2, HEL-S-117; alcohol dehydrogena 
+hsa:126              K13951 alcohol dehydrogenase 1/7 [EC:1.1.1.1] | (RefSeq) ADH1C, ADH3; alcohol dehydrogenase 1C (clas 
+hsa:126129           K19524 carnitine O-palmitoyltransferase 1, brain isoform [EC:2.3.1.21] | (RefSeq) CPT1C, CATL1, CPT1 
+hsa:127              K13980 alcohol dehydrogenase 4 [EC:1.1.1.1] | (RefSeq) ADH4, ADH-2, HEL-S-4; alcohol dehydrogenase 4 
+hsa:128              K00121 S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1] | ( 
+hsa:130              K13952 alcohol dehydrogenase 6 [EC:1.1.1.1] | (RefSeq) ADH6, ADH-5; alcohol dehydrogenase 6 (class V 
+hsa:131              K13951 alcohol dehydrogenase 1/7 [EC:1.1.1.1] | (RefSeq) ADH7, ADH4; alcohol dehydrogenase 7 (class  
+hsa:1374             K08765 carnitine O-palmitoyltransferase 1, liver isoform [EC:2.3.1.21] | (RefSeq) CPT1A, CPT1, CPT1- 
+hsa:1375             K19523 carnitine O-palmitoyltransferase 1, muscle isoform [EC:2.3.1.21] | (RefSeq) CPT1B, CPT1-M, CP 
+hsa:1432             K04441 p38 MAP kinase [EC:2.7.11.24] | (RefSeq) MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM1 
+hsa:148022           K05842 toll-like receptor adapter molecule 1 | (RefSeq) TICAM1, IIAE6, MyD88-3, PRVTIRB, TICAM-1, TR 
+hsa:1499             K02105 catenin beta 1 | (RefSeq) CTNNB1, CTNNB, EVR7, MRD19, NEDSDV, armadillo; catenin beta 1 
+hsa:1571             K07415 cytochrome P450 family 2 subfamily E1 [EC:1.14.14.-] | (RefSeq) CYP2E1, CPE1, CYP2E, P450-J,  
+hsa:207              K04456 RAC serine/threonine-protein kinase [EC:2.7.11.1] | (RefSeq) AKT1, AKT, PKB, PKB-ALPHA, PRKBA 
+hsa:208              K04456 RAC serine/threonine-protein kinase [EC:2.7.11.1] | (RefSeq) AKT2, HIHGHH, PKBB, PKBBETA, PRK 
+hsa:2168             K08750 fatty acid-binding protein 1, liver | (RefSeq) FABP1, FABPL, L-FABP; fatty acid binding prote 
+hsa:217              K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] | (RefSeq) ALDH2, ALDH-E2, ALDHI, ALDM; aldehyde d 
+hsa:219              K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] | (RefSeq) ALDH1B1, ALDH5, ALDHX; aldehyde dehydro 
+hsa:2194             K00665 fatty acid synthase, animal type [EC:2.3.1.85] | (RefSeq) FASN, FAS, OA-519, SDR27X1; fatty a 
+hsa:223              K00149 aldehyde dehydrogenase family 9 member A1 [EC:1.2.1.47 1.2.1.3] | (RefSeq) ALDH9A1, ALDH4, AL 
+hsa:224              K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] | (RefSeq) ALDH3A2, ALDH10, FALDH, SLS; aldehyde d 
+hsa:2308             K07201 forkhead box protein O1 | (RefSeq) FOXO1, FKH1, FKHR, FOXO1A; forkhead box O1 
+hsa:2309             K09408 forkhead box protein O3 | (RefSeq) FOXO3, AF6q21, FKHRL1, FKHRL1P2, FOXO2, FOXO3A; forkhead b 
+hsa:23118            K04404 TAK1-binding protein 2 | (RefSeq) TAB2, CHTD2, MAP3K7IP2, TAB-2; TGF-beta activated kinase 1  
+hsa:23175            K15728 phosphatidate phosphatase LPIN [EC:3.1.3.4] | (RefSeq) LPIN1, PAP1; lipin 1 
+hsa:23411            K11411 NAD+-dependent protein deacetylase sirtuin 1 [EC:2.3.1.286] | (RefSeq) SIRT1, SIR2, SIR2L1, S 
+hsa:23417            K01578 malonyl-CoA decarboxylase [EC:4.1.1.9] | (RefSeq) MLYCD, MCD; malonyl-CoA decarboxylase 
+hsa:23643            K05400 lymphocyte antigen 96 | (RefSeq) LY96, ESOP-1, MD-2, MD2, ly-96; lymphocyte antigen 96 
+hsa:23765            K05164 interleukin 17 receptor A | (RefSeq) IL17RA, CANDF5, CD217, CDw217, IL-17RA, IL17R, IMD51, hI 
+hsa:257397           K12793 TAK1-binding protein 3 | (RefSeq) TAB3, MAP3K7IP3, NAP1; TGF-beta activated kinase 1 (MAP3K7) 
+hsa:29110            K05410 TANK-binding kinase 1 [EC:2.7.11.10] | (RefSeq) TBK1, FTDALS4, IIAE8, NAK, T2K; TANK binding  
+hsa:2919             K05505 C-X-C motif chemokine 1/2/3 | (RefSeq) CXCL1, FSP, GRO1, GROa, MGSA, MGSA-a, NAP-3, SCYB1; C- 
+hsa:2920             K05505 C-X-C motif chemokine 1/2/3 | (RefSeq) CXCL2, CINC-2a, GRO2, GROb, MGSA-b, MIP-2a, MIP2, MIP2 
+hsa:2921             K05505 C-X-C motif chemokine 1/2/3 | (RefSeq) CXCL3, CINC-2b, GRO3, GROg, MIP-2b, MIP2B, SCYB3; C-X- 
+hsa:2932             K03083 glycogen synthase kinase 3 beta [EC:2.7.11.26] | (RefSeq) GSK3B; glycogen synthase kinase 3 b 
+hsa:29896            K12897 transformer-2 protein | (RefSeq) TRA2A, AWMS1, HSU53209; transformer 2 alpha homolog 
+hsa:31               K11262 acetyl-CoA carboxylase / biotin carboxylase 1 [EC:6.4.1.2 6.3.4.14 2.1.3.15] | (RefSeq) ACACA 
+hsa:32               K01946 acetyl-CoA carboxylase / biotin carboxylase 2 [EC:6.4.1.2 6.3.4.14 2.1.3.15] | (RefSeq) ACACB 
+hsa:34               K00249 acyl-CoA dehydrogenase [EC:1.3.8.7] | (RefSeq) ACADM, ACAD1, MCAD, MCADH; acyl-CoA dehydrogen 
+hsa:3439             K05414 interferon alpha | (RefSeq) IFNA1, IFL, IFN, IFN-ALPHA, IFN-alphaD, IFNA13, IFNA@, leIF_D; in 
+hsa:3440             K05414 interferon alpha | (RefSeq) IFNA2, IFN-alpha-2, IFN-alphaA, IFNA, IFNA2B, leIF_A; interferon  
+hsa:3441             K05414 interferon alpha | (RefSeq) IFNA4, IFN-alpha4a, INFA4; interferon alpha 4 
+hsa:3442             K05414 interferon alpha | (RefSeq) IFNA5, IFN-alpha-5, IFN-alphaG, INA5, INFA5, leIF_G; interferon a 
+hsa:3443             K05414 interferon alpha | (RefSeq) IFNA6, IFN-alphaK; interferon alpha 6 
+hsa:3444             K05414 interferon alpha | (RefSeq) IFNA7, IFN-alphaJ, IFNA-J; interferon alpha 7 
+hsa:3445             K05414 interferon alpha | (RefSeq) IFNA8, IFN-alphaB; interferon alpha 8 
+hsa:3446             K05414 interferon alpha | (RefSeq) IFNA10, IFN-alphaC; interferon alpha 10 
+hsa:3447             K05414 interferon alpha | (RefSeq) IFNA13; interferon alpha 13 
+hsa:3448             K05414 interferon alpha | (RefSeq) IFNA14, IFN-alphaH, LEIF2H; interferon alpha 14 
+hsa:3449             K05414 interferon alpha | (RefSeq) IFNA16, IFN-alpha-16, IFN-alphaO; interferon alpha 16 
+hsa:3451             K05414 interferon alpha | (RefSeq) IFNA17, IFN-alphaI, IFNA, INFA, LEIF2C1; interferon alpha 17 
+hsa:3452             K05414 interferon alpha | (RefSeq) IFNA21, IFN-alphaI, LeIF_F, leIF-F; interferon alpha 21 
+hsa:3456             K05415 interferon beta | (RefSeq) IFNB1, IFB, IFF, IFN-beta, IFNB; interferon beta 1 
+hsa:355              K04390 tumor necrosis factor receptor superfamily member 6 | (RefSeq) FAS, ALPS1A, APO-1, APT1, CD95 
+hsa:3551             K07209 inhibitor of nuclear factor kappa-B kinase subunit beta [EC:2.7.11.10] | (RefSeq) IKBKB, IKK- 
+hsa:3553             K04519 interleukin 1 beta | (RefSeq) IL1B, IL-1, IL1-BETA, IL1F2, IL1beta; interleukin 1 beta 
+hsa:356              K04389 tumor necrosis factor ligand superfamily member 6 | (RefSeq) FASLG, ALPS1B, APT1LG1, APTL, CD 
+hsa:3569             K05405 interleukin 6 | (RefSeq) IL6, BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6; interleuki 
+hsa:3576             K10030 interleukin 8 | (RefSeq) CXCL8, GCP-1, GCP1, IL8, LECT, LUCT, LYNAP, MDNCF, MONAP, NAF, NAP-1 
+hsa:3592             K05406 interleukin 12A | (RefSeq) IL12A, CLMF, IL-12A, NFSK, NKSF1, P35; interleukin 12A 
+hsa:3593             K05425 interleukin 12B | (RefSeq) IL12B, CLMF, CLMF2, IL-12B, IMD28, IMD29, NKSF, NKSF2; interleukin 
+hsa:3605             K05489 interleukin 17A | (RefSeq) IL17A, CTLA-8, CTLA8, IL-17, IL-17A, IL17, ILA17; interleukin 17A 
+hsa:3654             K04730 interleukin-1 receptor-associated kinase 1 [EC:2.7.11.1] | (RefSeq) IRAK1, IRAK, pelle; inter 
+hsa:3661             K05411 interferon regulatory factor 3 | (RefSeq) IRF3, IIAE7; interferon regulatory factor 3 
+hsa:37               K09479 very long chain acyl-CoA dehydrogenase [EC:1.3.8.9] | (RefSeq) ACADVL, ACAD6, LCACD, VLCAD; a 
+hsa:3929             K05399 lipopolysaccharide-binding protein | (RefSeq) LBP, BPIFD2; lipopolysaccharide binding protein 
+hsa:406999           K17125 microRNA 217 | (RefSeq) MIR217, MIRN217, mir-217; microRNA 217 
+hsa:4217             K04426 mitogen-activated protein kinase kinase kinase 5 [EC:2.7.11.25] | (RefSeq) MAP3K5, ASK1, MAPK 
+hsa:4615             K04729 myeloid differentiation primary response protein MyD88 | (RefSeq) MYD88, IMD68, MYD88D; MYD88 
+hsa:4790             K02580 nuclear factor NF-kappa-B p105 subunit | (RefSeq) NFKB1, CVID12, EBP-1, KBF1, NF-kB, NF-kB1,  
+hsa:4792             K04734 NF-kappa-B inhibitor alpha | (RefSeq) NFKBIA, EDAID2, IKBA, MAD-3, NFKBI; NFKB inhibitor alph 
+hsa:501              K14085 aldehyde dehydrogenase family 7 member A1 [EC:1.2.1.31 1.2.1.8 1.2.1.3] | (RefSeq) ALDH7A1, A 
+hsa:50507            K21423 NADPH oxidase 4 [EC:1.6.3.-] | (RefSeq) NOX4, KOX, KOX-1, RENOX; NADPH oxidase 4 
+hsa:51               K00232 acyl-CoA oxidase [EC:1.3.3.6] | (RefSeq) ACOX1, ACOX, MITCH, PALMCOX, SCOX; acyl-CoA oxidase  
+hsa:51094            K07297 adiponectin receptor | (RefSeq) ADIPOR1, ACDCR1, CGI-45, CGI45, PAQR1, TESBP1A; adiponectin r 
+hsa:51135            K04733 interleukin-1 receptor-associated kinase 4 [EC:2.7.11.1] | (RefSeq) IRAK4, IMD67, IPD1, IRAK- 
+hsa:51176            K04492 lymphoid enhancer-binding factor 1 | (RefSeq) LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3; lymphoid 
+hsa:51422            K07200 5'-AMP-activated protein kinase, regulatory gamma subunit | (RefSeq) PRKAG2, AAKG, AAKG2, CMH 
+hsa:53632            K07200 5'-AMP-activated protein kinase, regulatory gamma subunit | (RefSeq) PRKAG3, AMPKG3, SMGMQTL; 
+hsa:5465             K07294 peroxisome proliferator-activated receptor alpha | (RefSeq) PPARA, NR1C1, PPAR, PPAR-alpha, P 
+hsa:5562             K07198 5'-AMP-activated protein kinase, catalytic alpha subunit [EC:2.7.11.11] | (RefSeq) PRKAA1, AM 
+hsa:5563             K07198 5'-AMP-activated protein kinase, catalytic alpha subunit [EC:2.7.11.11] | (RefSeq) PRKAA2, AM 
+hsa:5564             K07199 5'-AMP-activated protein kinase, regulatory beta subunit | (RefSeq) PRKAB1, AMPK, HAMPKb; pro 
+hsa:5565             K07199 5'-AMP-activated protein kinase, regulatory beta subunit | (RefSeq) PRKAB2; protein kinase AM 
+hsa:5571             K07200 5'-AMP-activated protein kinase, regulatory gamma subunit | (RefSeq) PRKAG1, AMPKG; protein k 
+hsa:5599             K04440 mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24] | (RefSeq) M 
+hsa:5600             K04441 p38 MAP kinase [EC:2.7.11.24] | (RefSeq) MAPK11, P38B, P38BETA2, PRKM11, SAPK2, SAPK2B, p38-2 
+hsa:5601             K04440 mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24] | (RefSeq) M 
+hsa:5602             K04440 mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24] | (RefSeq) M 
+hsa:5603             K04441 p38 MAP kinase [EC:2.7.11.24] | (RefSeq) MAPK13, MAPK_13, MAPK-13, PRKM13, SAPK4, p38delta; m 
+hsa:5606             K04432 mitogen-activated protein kinase kinase 3 [EC:2.7.12.2] | (RefSeq) MAP2K3, MAPKK3, MEK3, MKK3 
+hsa:5608             K04433 mitogen-activated protein kinase kinase 6 [EC:2.7.12.2] | (RefSeq) MAP2K6, MAPKK6, MEK6, MKK6 
+hsa:5609             K04431 mitogen-activated protein kinase kinase 7 [EC:2.7.12.2] | (RefSeq) MAP2K7, JNKK2, MAPKK7, MEK 
+hsa:595              K04503 G1/S-specific cyclin-D1 | (RefSeq) CCND1, BCL1, D11S287E, PRAD1, U21B31; cyclin D1 
+hsa:5970             K04735 transcription factor p65 | (RefSeq) RELA, CMCU, NFKB3, p65; RELA proto-oncogene, NF-kB subuni 
+hsa:6300             K04441 p38 MAP kinase [EC:2.7.11.24] | (RefSeq) MAPK12, ERK-6, ERK3, ERK6, MAPK_12, P38GAMMA, PRKM12 
+hsa:6319             K00507 stearoyl-CoA desaturase (Delta-9 desaturase) [EC:1.14.19.1] | (RefSeq) SCD, FADS5, MSTP008, S 
+hsa:6416             K04430 mitogen-activated protein kinase kinase 4 [EC:2.7.12.2] | (RefSeq) MAP2K4, JNKK, JNKK1, MAPKK 
+hsa:6434             K12897 transformer-2 protein | (RefSeq) TRA2B, Htra2-beta, PPP1R156, SFRS10, SRFS10, TRA2-BETA, TRAN 
+hsa:64900            K15728 phosphatidate phosphatase LPIN [EC:3.1.3.4] | (RefSeq) LPIN3, LIPN3L, SMP2, dJ620E11.2; lipin 
+hsa:6720             K07197 sterol regulatory element-binding transcription factor 1 | (RefSeq) SREBF1, HMD, IFAP2, SREBP 
+hsa:6885             K04427 mitogen-activated protein kinase kinase kinase 7 [EC:2.7.11.25] | (RefSeq) MAP3K7, CSCF, FMD2 
+hsa:6932             K02620 transcription factor 7 | (RefSeq) TCF7, TCF-1; transcription factor 7 
+hsa:6934             K04491 transcription factor 7-like 2 | (RefSeq) TCF7L2, TCF-4, TCF4; transcription factor 7 like 2 
+hsa:7099             K10160 toll-like receptor 4 | (RefSeq) TLR4, ARMD10, CD284, TLR-4, TOLL; toll like receptor 4 
+hsa:712              K03986 complement C1q subcomponent subunit A | (RefSeq) C1QA; complement C1q A chain 
+hsa:7124             K03156 tumor necrosis factor superfamily, member 2 | (RefSeq) TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNL 
+hsa:713              K03987 complement C1q subcomponent subunit B | (RefSeq) C1QB; complement C1q B chain 
+hsa:7132             K03158 tumor necrosis factor receptor superfamily member 1A | (RefSeq) TNFRSF1A, CD120a, FPF, TBP1,  
+hsa:714              K03988 complement C1q subcomponent subunit C | (RefSeq) C1QC, C1Q-C, C1QG; complement C1q C chain 
+hsa:717              K01332 complement component 2 [EC:3.4.21.43] | (RefSeq) C2, ARMD14, CO2; complement C2 
+hsa:718              K03990 complement component 3 | (RefSeq) C3, AHUS5, ARMD9, ASP, C3a, C3b, CPAMD1, HEL-S-62p; complem 
+hsa:7187             K03174 TNF receptor-associated factor 3 | (RefSeq) TRAF3, CAP-1, CAP1, CD40bp, CRAF1, IIAE5, LAP1, R 
+hsa:7189             K03175 TNF receptor-associated factor 6 [EC:2.3.2.27] | (RefSeq) TRAF6, MGC:3310, RNF85; TNF recepto 
+hsa:719              K04009 C3a anaphylatoxin chemotactic receptor | (RefSeq) C3AR1, AZ3B, C3AR, HNFAG09; complement C3a  
+hsa:720              K03989 complement component 4 | (RefSeq) C4A, C4, C4A2, C4A3, C4A4, C4A6, C4AD, C4S, CO4, CPAMD2, RG 
+hsa:721              K03989 complement component 4 | (RefSeq) C4B, C4B1, C4B12, C4B2, C4B3, C4B5, C4BD, C4B_2, C4F, CH, C 
+hsa:727              K03994 complement component 5 | (RefSeq) C5, C5D, C5a, C5b, CPAMD4, ECLZB; complement C5 
+hsa:728              K04010 C5a anaphylatoxin chemotactic receptor 1 | (RefSeq) C5AR1, C5A, C5AR, C5R1, CD88; complement  
+hsa:79602            K07297 adiponectin receptor | (RefSeq) ADIPOR2, ACDCR2, PAQR2; adiponectin receptor 2 
+hsa:79966            K00507 stearoyl-CoA desaturase (Delta-9 desaturase) [EC:1.14.19.1] | (RefSeq) SCD5, ACOD4, DFNA79, F 
+hsa:8310             K00232 acyl-CoA oxidase [EC:1.3.3.6] | (RefSeq) ACOX3; acyl-CoA oxidase 3, pristanoyl 
+hsa:83439            K04490 transcription factor 7-like 1 | (RefSeq) TCF7L1, TCF-3, TCF3; transcription factor 7 like 1 
+hsa:836              K02187 caspase 3 [EC:3.4.22.56] | (RefSeq) CASP3, CPP32, CPP32B, SCA-1; caspase 3 
+hsa:841              K04398 caspase 8 [EC:3.4.22.61] | (RefSeq) CASP8, ALPS2B, CAP4, Casp-8, FLICE, MACH, MCH5; caspase 8 
+hsa:84818            K05166 interleukin 17 receptor C | (RefSeq) IL17RC, CANDF9, IL17-RL, IL17RL; interleukin 17 receptor 
+hsa:8517             K07210 inhibitor of nuclear factor kappa-B kinase subunit gamma | (RefSeq) IKBKG, AMCBX1, EDAID1, FI 
+hsa:8717             K03171 tumor necrosis factor receptor type 1-associated DEATH domain protein | (RefSeq) TRADD, Hs.89 
+hsa:8737             K02861 receptor-interacting serine/threonine-protein kinase 1 [EC:2.7.11.1] | (RefSeq) RIPK1, AIEFL, 
+hsa:8772             K02373 FAS-associated death domain protein | (RefSeq) FADD, GIG3, IMD90, MORT1; Fas associated via d 
+hsa:9020             K04466 mitogen-activated protein kinase kinase kinase 14 [EC:2.7.11.25] | (RefSeq) MAP3K14, FTDCR1B, 
+hsa:929              K04391 monocyte differentiation antigen CD14 | (RefSeq) CD14; CD14 molecule 
+hsa:9370             K07296 adiponectin | (RefSeq) ADIPOQ, ACDC, ACRP30, ADIPQTL1, ADPN, APM-1, APM1, GBP28; adiponectin, 
+hsa:9641             K07211 inhibitor of nuclear factor kappa-B kinase subunit epsilon [EC:2.7.11.10] | (RefSeq) IKBKE, I 
+hsa:9663             K15728 phosphatidate phosphatase LPIN [EC:3.1.3.4] | (RefSeq) LPIN2; lipin 2 

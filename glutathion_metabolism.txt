@@ -1,0 +1,58 @@
+hsa:10314            K25210 glutathione transferase [EC:2.5.1.18] | (RefSeq) LANCL1, GPR69A, p40; LanC like 1 
+hsa:119391           K00799 glutathione S-transferase [EC:2.5.1.18] | (RefSeq) GSTO2, GSTO_2-2, bA127L20.1; glutathione S 
+hsa:124975           K00681 gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13] | (RefSeq) GGT6;  
+hsa:221357           K00799 glutathione S-transferase [EC:2.5.1.18] | (RefSeq) GSTA5; glutathione S-transferase alpha 5 
+hsa:2539             K00036 glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363] | (RefSeq) G6PD, G6PD1; glucose-6 
+hsa:257202           K00432 glutathione peroxidase [EC:1.11.1.9] | (RefSeq) GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24 
+hsa:2678             K18592 gamma-glutamyltranspeptidase / glutathione hydrolase / leukotriene-C4 hydrolase [EC:2.3.2.2 3 
+hsa:2686             K00681 gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13] | (RefSeq) GGT7,  
+hsa:2687             K18592 gamma-glutamyltranspeptidase / glutathione hydrolase / leukotriene-C4 hydrolase [EC:2.3.2.2 3 
+hsa:26873            K01469 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9] | (RefSeq) OPLAH, 5-Opase, OPLA, OPLAHD; 5-oxop 
+hsa:2729             K11204 glutamate--cysteine ligase catalytic subunit [EC:6.3.2.2] | (RefSeq) GCLC, GCL, GCS, GLCL, GL 
+hsa:2730             K11205 glutamate--cysteine ligase regulatory subunit | (RefSeq) GCLM, GLCLR; glutamate-cysteine liga 
+hsa:27306            K04097 prostaglandin-H2 D-isomerase / glutathione transferase [EC:5.3.99.2 2.5.1.18] | (RefSeq) HPGD 
+hsa:2876             K00432 glutathione peroxidase [EC:1.11.1.9] | (RefSeq) GPX1, GPXD, GSHPX1; glutathione peroxidase 1 
+hsa:2877             K00432 glutathione peroxidase [EC:1.11.1.9] | (RefSeq) GPX2, GI-GPx, GPRP, GPRP-2, GPx-2, GPx-GI, GS 
+hsa:2878             K00432 glutathione peroxidase [EC:1.11.1.9] | (RefSeq) GPX3, GPx-P, GSHPx-3, GSHPx-P; glutathione pe 
+hsa:2879             K05361 phospholipid-hydroperoxide glutathione peroxidase [EC:1.11.1.12] | (RefSeq) GPX4, GPx-4, GSHP 
+hsa:2880             K00432 glutathione peroxidase [EC:1.11.1.9] | (RefSeq) GPX5, EGLP, GPx-5, GSHPx-5, HEL-S-75p; glutat 
+hsa:2882             K00432 glutathione peroxidase [EC:1.11.1.9] | (RefSeq) GPX7, CL683, GPX6, GPx-7, GSHPx-7, NPGPx; glu 
+hsa:290              K11140 aminopeptidase N [EC:3.4.11.2] | (RefSeq) ANPEP, APN, CD13, GP150, LAP1, P150, PEPN; alanyl a 
+hsa:2936             K00383 glutathione reductase (NADPH) [EC:1.8.1.7] | (RefSeq) GSR, GR, GSRD, HEL-75, HEL-S-122m; glut 
+hsa:2937             K21456 glutathione synthase [EC:6.3.2.3] | (RefSeq) GSS, GSHS, HEL-S-64p, HEL-S-88n; glutathione syn 
+hsa:2938             K00799 glutathione S-transferase [EC:2.5.1.18] | (RefSeq) GSTA1, GST-epsilon, GST2, GSTA1-1, GTH1; g 
+hsa:2939             K00799 glutathione S-transferase [EC:2.5.1.18] | (RefSeq) GSTA2, GST2, GSTA2-2, GTA2, GTH2; glutathi 
+hsa:2940             K00799 glutathione S-transferase [EC:2.5.1.18] | (RefSeq) GSTA3, GSTA3-3, GTA3; glutathione S-transf 
+hsa:2941             K00799 glutathione S-transferase [EC:2.5.1.18] | (RefSeq) GSTA4, GSTA4-4, GTA4; glutathione S-transf 
+hsa:2944             K00799 glutathione S-transferase [EC:2.5.1.18] | (RefSeq) GSTM1, GST1, GSTM1-1, GSTM1a-1a, GSTM1b-1b 
+hsa:2946             K00799 glutathione S-transferase [EC:2.5.1.18] | (RefSeq) GSTM2, GST4, GSTM, GSTM2-2, GTHMUS; glutat 
+hsa:2947             K00799 glutathione S-transferase [EC:2.5.1.18] | (RefSeq) GSTM3, GST5, GSTB, GSTM3-3, GTM3; glutathi 
+hsa:2948             K00799 glutathione S-transferase [EC:2.5.1.18] | (RefSeq) GSTM4, GSTM4-4, GTM4; glutathione S-transf 
+hsa:2949             K00799 glutathione S-transferase [EC:2.5.1.18] | (RefSeq) GSTM5, GSTM5-5, GTM5; glutathione S-transf 
+hsa:2950             K23790 glutathione S-transferase P [EC:2.5.1.18] | (RefSeq) GSTP1, DFN7, FAEES3, GST3, GSTP, HEL-S-2 
+hsa:2952             K00799 glutathione S-transferase [EC:2.5.1.18] | (RefSeq) GSTT1; glutathione S-transferase theta 1 
+hsa:2953             K00799 glutathione S-transferase [EC:2.5.1.18] | (RefSeq) GSTT2; glutathione S-transferase theta 2 ( 
+hsa:3417             K00031 isocitrate dehydrogenase [EC:1.1.1.42] | (RefSeq) IDH1, HEL-216, HEL-S-26, IDCD, IDH, IDP, ID 
+hsa:3418             K00031 isocitrate dehydrogenase [EC:1.1.1.42] | (RefSeq) IDH2, D2HGA2, ICD-M, IDH, IDHM, IDP, IDPM,  
+hsa:373156           K13299 glutathione S-transferase kappa 1 [EC:2.5.1.18] | (RefSeq) GSTK1, GST, GST_13-13, GST13, GST1 
+hsa:4257             K00799 glutathione S-transferase [EC:2.5.1.18] | (RefSeq) MGST1, GST12, MGST, MGST-I; microsomal glu 
+hsa:4258             K00799 glutathione S-transferase [EC:2.5.1.18] | (RefSeq) MGST2, GST2, MGST-II; microsomal glutathio 
+hsa:4259             K00799 glutathione S-transferase [EC:2.5.1.18] | (RefSeq) MGST3, GST-III; microsomal glutathione S-t 
+hsa:493869           K00432 glutathione peroxidase [EC:1.11.1.9] | (RefSeq) GPX8, EPLA847, GPx-8, GSHPx-8, UNQ847; glutat 
+hsa:494143           K07232 glutathione-specific gamma-glutamylcyclotransferase [EC:4.3.2.7] | (RefSeq) CHAC2, GCG1; ChaC 
+hsa:4953             K01581 ornithine decarboxylase [EC:4.1.1.17] | (RefSeq) ODC1, BABS, NEDBA, NEDBIA, ODC; ornithine de 
+hsa:50484            K10808 ribonucleoside-diphosphate reductase subunit M2 [EC:1.17.4.1] | (RefSeq) RRM2B, MTDPS8A, MTDP 
+hsa:51056            K11142 cytosol aminopeptidase [EC:3.4.11.1 3.4.11.5] | (RefSeq) LAP3, HEL-S-106, LAP, LAPEP, PEPS; l 
+hsa:51060            K05360 protein-disulfide reductase (glutathione) [EC:1.8.4.2] | (RefSeq) TXNDC12, AG1, AGR1, ERP16,  
+hsa:51471            K20838 N-acetyltransferase 8 [EC:2.3.1.80 2.3.1.-] | (RefSeq) NAT8B, CML2, Hcml2, NAT8BP; N-acetyltr 
+hsa:5226             K00033 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343] | (RefSeq) PGD, 6PGD; phosphoglucona 
+hsa:6240             K10807 ribonucleoside-diphosphate reductase subunit M1 [EC:1.17.4.1] | (RefSeq) RRM1, R1, RIR1, RR1; 
+hsa:6241             K10808 ribonucleoside-diphosphate reductase subunit M2 [EC:1.17.4.1] | (RefSeq) RRM2, C2orf48, R2, R 
+hsa:653689           K00799 glutathione S-transferase [EC:2.5.1.18] | (RefSeq) GSTT2B, GSTT2P; glutathione S-transferase  
+hsa:6611             K00802 spermine synthase [EC:2.5.1.22] | (RefSeq) SMS, MRSR, MRXSSR, SPMSY, SRS, SpS; spermine synth 
+hsa:6723             K00797 spermidine synthase [EC:2.5.1.16] | (RefSeq) SRM, PAPT, SPDSY, SPS1, SRML1; spermidine syntha 
+hsa:79017            K00682 gamma-glutamylcyclotransferase [EC:4.3.2.9] | (RefSeq) GGCT, C7orf24, CRF21, GCTG, GGC; gamma 
+hsa:79094            K07232 glutathione-specific gamma-glutamylcyclotransferase [EC:4.3.2.7] | (RefSeq) CHAC1; ChaC gluta 
+hsa:9027             K20838 N-acetyltransferase 8 [EC:2.3.1.80 2.3.1.-] | (RefSeq) NAT8, ATase2, CCNAT, CML1, GLA, Hcml1, 
+hsa:9446             K00799 glutathione S-transferase [EC:2.5.1.18] | (RefSeq) GSTO1, GSTO_1-1, GSTTLp28, HEL-S-21, P28,  
+hsa:9588             K11188 peroxiredoxin 6 [EC:1.11.1.7 1.11.1.27 3.1.1.-] | (RefSeq) PRDX6, 1-Cys, AOP2, HEL-S-128m, LP 

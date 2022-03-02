@@ -1,0 +1,159 @@
+hsa:100137049        K16342 cytosolic phospholipase A2 [EC:3.1.1.4] | (RefSeq) PLA2G4B, HsT16992, cPLA2-beta; phospholipa 
+hsa:100526767        K12193 charged multivesicular body protein 3 | (RefSeq) RNF103-CHMP3, CGI149, CHMP3, NEDF, RNF103-VP 
+hsa:10059            K17065 dynamin 1-like protein [EC:3.6.5.5] | (RefSeq) DNM1L, DLP1, DRP1, DVLP, DYMPLE, EMPF, EMPF1,  
+hsa:10379            K04693 interferon regulatory factor 9 | (RefSeq) IRF9, IRF-9, ISGF3, ISGF3G, p48; interferon regulat 
+hsa:10616            K10630 RanBP-type and C3HC4-type zinc finger-containing protein 1 [EC:2.3.2.31] | (RefSeq) RBCK1, C2 
+hsa:11035            K08847 receptor-interacting serine/threonine-protein kinase 3 [EC:2.7.11.1] | (RefSeq) RIPK3, RIP3;  
+hsa:11124            K20703 FAS-associated factor 1 | (RefSeq) FAF1, CGI-03, HFAF1s, UBXD12, UBXN3A, hFAF1; Fas associate 
+hsa:114548           K12800 NACHT, LRR and PYD domains-containing protein 3 | (RefSeq) NLRP3, AGTAVPRL, AII, AVP, C1orf7, 
+hsa:123745           K16342 cytosolic phospholipase A2 [EC:3.1.1.4] | (RefSeq) PLA2G4E; phospholipase A2 group IVE 
+hsa:124044           K17595 spermatogenesis-associated protein 2 | (RefSeq) SPATA2L, C16orf76, tamo; spermatogenesis asso 
+hsa:128866           K12194 charged multivesicular body protein 4A/B | (RefSeq) CHMP4B, C20orf178, CHMP4A, CTPP3, CTRCT31 
+hsa:142              K24070 poly [ADP-ribose] polymerase 1 [EC:2.4.2.30] | (RefSeq) PARP1, ADPRT, ADPRT_1, ADPRT1, ARTD1, 
+hsa:148022           K05842 toll-like receptor adapter molecule 1 | (RefSeq) TICAM1, IIAE6, MyD88-3, PRVTIRB, TICAM-1, TR 
+hsa:1536             K21421 NADPH oxidase 2 [EC:1.-.-.-] | (RefSeq) CYBB, AMCBX2, CGD, CGDX, GP91-1, GP91-PHOX, GP91PHOX, 
+hsa:1540             K08601 ubiquitin carboxyl-terminal hydrolase CYLD [EC:3.4.19.12] | (RefSeq) CYLD, BRSS, CDMT, CYLD1, 
+hsa:192111           K15637 serine/threonine-protein phosphatase PGAM5 [EC:3.1.3.16] | (RefSeq) PGAM5, BXLBV68; PGAM fami 
+hsa:197259           K08849 mixed lineage kinase domain-like [EC:2.7.11.1] | (RefSeq) MLKL, hMLKL; mixed lineage kinase d 
+hsa:221613           K11251 histone H2A | (RefSeq) H2AC1, H2AA, H2AFR, HIST1H2AA, TH2A, bA317E16.2; H2A clustered histone 
+hsa:246              K00460 arachidonate 15-lipoxygenase [EC:1.13.11.33] | (RefSeq) ALOX15, 12-LOX, 15-LOX, 15-LOX-1, LOG 
+hsa:2495             K00522 ferritin heavy chain [EC:1.16.3.2] | (RefSeq) FTH1, FHC, FTH, FTHL6, HFE5, PIG15, PLIF; ferri 
+hsa:2512             K13625 ferritin light chain | (RefSeq) FTL, LFTD, NBIA3; ferritin light chain 
+hsa:255189           K16342 cytosolic phospholipase A2 [EC:3.1.1.4] | (RefSeq) PLA2G4F, PLA2G4FZ; phospholipase A2 group  
+hsa:25978            K12192 charged multivesicular body protein 2B | (RefSeq) CHMP2B, ALS17, CHMP2.5, DMT1, FTDALS7, VPS2 
+hsa:27005            K21634 ubiquitin carboxyl-terminal hydrolase 21 [EC:3.4.19.12] | (RefSeq) USP21, USP16, USP23; ubiqu 
+hsa:27183            K12196 vacuolar protein-sorting-associated protein 4 | (RefSeq) VPS4A, CIMDAG, SKD1, SKD1A, SKD2, VP 
+hsa:27243            K12191 charged multivesicular body protein 2A | (RefSeq) CHMP2A, BC-2, BC2, CHMP2, VPS2, VPS2A; char 
+hsa:2746             K00261 glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3] | (RefSeq) GLUD1, GDH, GDH1, GLUD; glutamate d 
+hsa:2747             K00261 glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3] | (RefSeq) GLUD2, GDH2, GLUDP1; glutamate dehy 
+hsa:2752             K01915 glutamine synthetase [EC:6.3.1.2] | (RefSeq) GLUL, GLNS, GS, PIG43, PIG59; glutamate-ammonia  
+hsa:283748           K16342 cytosolic phospholipase A2 [EC:3.1.1.4] | (RefSeq) PLA2G4D, cPLA2delta; phospholipase A2 grou 
+hsa:29082            K12194 charged multivesicular body protein 4A/B | (RefSeq) CHMP4A, C14orf123, CHMP4, CHMP4B, HSPC134 
+hsa:291              K05863 solute carrier family 25 (mitochondrial adenine nucleotide translocator), member 4/5/6/31 | ( 
+hsa:29108            K12799 apoptosis-associated speck-like protein containing a CARD | (RefSeq) PYCARD, ASC, CARD5, TMS, 
+hsa:292              K05863 solute carrier family 25 (mitochondrial adenine nucleotide translocator), member 4/5/6/31 | ( 
+hsa:293              K05863 solute carrier family 25 (mitochondrial adenine nucleotide translocator), member 4/5/6/31 | ( 
+hsa:3012             K11251 histone H2A | (RefSeq) H2AC8, H2A.1, H2A.2, H2A/a, H2AC4, H2AFA, HIST1H2AE; H2A clustered his 
+hsa:3013             K11251 histone H2A | (RefSeq) H2AC7, H2A.3, H2A/g, H2AFG, HIST1H2AD; H2A clustered histone 7 
+hsa:3014             K11251 histone H2A | (RefSeq) H2AX, H2A.X, H2A/X, H2AFX; H2A.X variant histone 
+hsa:3015             K11251 histone H2A | (RefSeq) H2AZ1, H2A.Z-1, H2A.z, H2A/z, H2AFZ, H2AZ; H2A.Z variant histone 1 
+hsa:3146             K10802 high mobility group protein B1 | (RefSeq) HMGB1, HMG-1, HMG1, HMG3, SBP-1; high mobility grou 
+hsa:317772           K11251 histone H2A | (RefSeq) H2AC21, H2AB, HIST2H2AB; H2A clustered histone 21 
+hsa:329              K16060 baculoviral IAP repeat-containing protein 2/3 | (RefSeq) BIRC2, API1, HIAP2, Hiap-2, MIHB, RN 
+hsa:330              K16060 baculoviral IAP repeat-containing protein 2/3 | (RefSeq) BIRC3, AIP1, API2, CIAP2, HAIP1, HIA 
+hsa:331              K04725 E3 ubiquitin-protein ligase XIAP [EC:2.3.2.27] | (RefSeq) XIAP, API3, BIRC4, IAP-3, ILP1, MIH 
+hsa:3320             K04079 molecular chaperone HtpG | (RefSeq) HSP90AA1, EL52, HEL-S-65p, HSP86, HSP89A, HSP90A, HSP90N, 
+hsa:3326             K04079 molecular chaperone HtpG | (RefSeq) HSP90AB1, D6S182, HSP84, HSP90B, HSPC2, HSPCB; heat shock 
+hsa:3439             K05414 interferon alpha | (RefSeq) IFNA1, IFL, IFN, IFN-ALPHA, IFN-alphaD, IFNA13, IFNA@, leIF_D; in 
+hsa:3440             K05414 interferon alpha | (RefSeq) IFNA2, IFN-alpha-2, IFN-alphaA, IFNA, IFNA2B, leIF_A; interferon  
+hsa:3441             K05414 interferon alpha | (RefSeq) IFNA4, IFN-alpha4a, INFA4; interferon alpha 4 
+hsa:3442             K05414 interferon alpha | (RefSeq) IFNA5, IFN-alpha-5, IFN-alphaG, INA5, INFA5, leIF_G; interferon a 
+hsa:3443             K05414 interferon alpha | (RefSeq) IFNA6, IFN-alphaK; interferon alpha 6 
+hsa:3444             K05414 interferon alpha | (RefSeq) IFNA7, IFN-alphaJ, IFNA-J; interferon alpha 7 
+hsa:3445             K05414 interferon alpha | (RefSeq) IFNA8, IFN-alphaB; interferon alpha 8 
+hsa:3446             K05414 interferon alpha | (RefSeq) IFNA10, IFN-alphaC; interferon alpha 10 
+hsa:3447             K05414 interferon alpha | (RefSeq) IFNA13; interferon alpha 13 
+hsa:3448             K05414 interferon alpha | (RefSeq) IFNA14, IFN-alphaH, LEIF2H; interferon alpha 14 
+hsa:3449             K05414 interferon alpha | (RefSeq) IFNA16, IFN-alpha-16, IFN-alphaO; interferon alpha 16 
+hsa:3451             K05414 interferon alpha | (RefSeq) IFNA17, IFN-alphaI, IFNA, INFA, LEIF2C1; interferon alpha 17 
+hsa:3452             K05414 interferon alpha | (RefSeq) IFNA21, IFN-alphaI, LeIF_F, leIF-F; interferon alpha 21 
+hsa:3454             K05130 interferon receptor 1 | (RefSeq) IFNAR1, AVP, IFN-alpha-REC, IFNAR, IFNBR, IFRC; interferon a 
+hsa:3455             K05131 interferon receptor 2 | (RefSeq) IFNAR2, IFN-R, IFN-alpha-REC, IFNABR, IFNARB, IMD45; interfe 
+hsa:3456             K05415 interferon beta | (RefSeq) IFNB1, IFB, IFF, IFN-beta, IFNB; interferon beta 1 
+hsa:3458             K04687 interferon gamma | (RefSeq) IFNG, IFG, IFI, IMD69; interferon gamma 
+hsa:3459             K05132 interferon gamma receptor 1 | (RefSeq) IFNGR1, CD119, IFNGR, IMD27A, IMD27B; interferon gamma 
+hsa:3460             K05133 interferon gamma receptor 2 | (RefSeq) IFNGR2, AF-1, IFGR2, IFNGT1, IMD28; interferon gamma r 
+hsa:353376           K05409 TRIF-related adaptor molecule | (RefSeq) TICAM2, MyD88-4, TICAM-2, TIRAP3, TIRP, TRAM; toll l 
+hsa:355              K04390 tumor necrosis factor receptor superfamily member 6 | (RefSeq) FAS, ALPS1A, APO-1, APT1, CD95 
+hsa:3552             K04383 interleukin 1 alpha | (RefSeq) IL1A, IL-1_alpha, IL-1A, IL1, IL1-ALPHA, IL1F1; interleukin 1  
+hsa:3553             K04519 interleukin 1 beta | (RefSeq) IL1B, IL-1, IL1-BETA, IL1F2, IL1beta; interleukin 1 beta 
+hsa:356              K04389 tumor necrosis factor ligand superfamily member 6 | (RefSeq) FASLG, ALPS1B, APT1LG1, APTL, CD 
+hsa:3716             K11217 Janus kinase 1 [EC:2.7.10.2] | (RefSeq) JAK1, AIIDE, JAK1A, JAK1B, JTK3; Janus kinase 1 
+hsa:3717             K04447 Janus kinase 2 [EC:2.7.10.2] | (RefSeq) JAK2, JTK10; Janus kinase 2 
+hsa:3718             K11218 Janus kinase 3 [EC:2.7.10.2] | (RefSeq) JAK3, JAK-3, JAK3_HUMAN, JAKL, L-JAK, LJAK; Janus kin 
+hsa:474381           K11251 histone H2A | (RefSeq) H2AB2, H2A.Bbd, H2AB3, H2AFB2; H2A.B variant histone 2 
+hsa:474382           K11251 histone H2A | (RefSeq) H2AB1, H2A.B, H2A.Bbd, H2AFB1; H2A.B variant histone 1 
+hsa:5119             K12197 charged multivesicular body protein 1 | (RefSeq) CHMP1A, CHMP1, PCH8, PCOLN3, PRSM1, VPS46-1, 
+hsa:51510            K12198 charged multivesicular body protein 5 | (RefSeq) CHMP5, C9orf83, CGI-34, HSPC177, PNAS-2, SNF 
+hsa:51652            K12193 charged multivesicular body protein 3 | (RefSeq) CHMP3, CGI-149, NEDF, VPS24; charged multive 
+hsa:5321             K16342 cytosolic phospholipase A2 [EC:3.1.1.4] | (RefSeq) PLA2G4A, GURDP, PLA2G4, cPLA2, cPLA2-alpha 
+hsa:5478             K03767 peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8] | (RefSeq) PPIA, CYPA, CYP 
+hsa:5481             K05864 peptidyl-prolyl isomerase D [EC:5.2.1.8] | (RefSeq) PPID, CYP-40, CYPD; peptidylprolyl isomer 
+hsa:54822            K04982 transient receptor potential cation channel subfamily M member 7 [EC:2.7.11.1] | (RefSeq) TRP 
+hsa:55072            K11974 E3 ubiquitin-protein ligase RNF31 [EC:2.3.2.31] | (RefSeq) RNF31, HOIP, Paul, ZIBRA; ring fin 
+hsa:55506            K11251 histone H2A | (RefSeq) MACROH2A2, H2AFY2; macroH2A.2 histone 
+hsa:55766            K11251 histone H2A | (RefSeq) H2AJ, H2AFJ; H2A.J histone 
+hsa:5599             K04440 mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24] | (RefSeq) M 
+hsa:5601             K04440 mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24] | (RefSeq) M 
+hsa:5602             K04440 mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24] | (RefSeq) M 
+hsa:5610             K16195 eukaryotic translation initiation factor 2-alpha kinase 2 [EC:2.7.11.1] | (RefSeq) EIF2AK2, D 
+hsa:57132            K12197 charged multivesicular body protein 1 | (RefSeq) CHMP1B, C10orf2, C18-ORF2, C18orf2, CHMP1.5, 
+hsa:581              K02159 apoptosis regulator BAX | (RefSeq) BAX, BCL2L4; BCL2 associated X, apoptosis regulator 
+hsa:5834             K00688 glycogen phosphorylase [EC:2.4.1.1] | (RefSeq) PYGB, GPBB; glycogen phosphorylase B 
+hsa:5836             K00688 glycogen phosphorylase [EC:2.4.1.1] | (RefSeq) PYGL, GSD6; glycogen phosphorylase L 
+hsa:5837             K00688 glycogen phosphorylase [EC:2.4.1.1] | (RefSeq) PYGM, GSD5; glycogen phosphorylase, muscle ass 
+hsa:596              K02161 apoptosis regulator Bcl-2 | (RefSeq) BCL2, Bcl-2, PPP1R50; BCL2 apoptosis regulator 
+hsa:637              K04726 BH3 interacting domain death agonist | (RefSeq) BID, FP497; BH3 interacting domain death agon 
+hsa:6609             K12350 sphingomyelin phosphodiesterase [EC:3.1.4.12] | (RefSeq) SMPD1, ASM, ASMASE, NPD; sphingomyel 
+hsa:6772             K11220 signal transducer and activator of transcription 1 | (RefSeq) STAT1, CANDF7, IMD31A, IMD31B,  
+hsa:6773             K11221 signal transducer and activator of transcription 2 | (RefSeq) STAT2, IMD44, ISGF-3, P113, PTO 
+hsa:6774             K04692 signal transducer and activator of transcription 3 | (RefSeq) STAT3, ADMIO, ADMIO1, APRF, HIE 
+hsa:6775             K11222 signal transducer and activator of transcription 4 | (RefSeq) STAT4, SLEB11; signal transduce 
+hsa:6776             K11223 signal transducer and activator of transcription 5A | (RefSeq) STAT5A, MGF, STAT5; signal tra 
+hsa:6777             K11224 signal transducer and activator of transcription 5B | (RefSeq) STAT5B, GHISID2, STAT5; signal 
+hsa:6778             K11225 signal transducer and activator of transcription 6 | (RefSeq) STAT6, D12S1644, IL-4-STAT, STA 
+hsa:7098             K05401 toll-like receptor 3 | (RefSeq) TLR3, CD283, IIAE2, IMD83; toll like receptor 3 
+hsa:7099             K10160 toll-like receptor 4 | (RefSeq) TLR4, ARMD10, CD284, TLR-4, TOLL; toll like receptor 4 
+hsa:7124             K03156 tumor necrosis factor superfamily, member 2 | (RefSeq) TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNL 
+hsa:7128             K11859 tumor necrosis factor, alpha-induced protein 3 [EC:3.4.19.12] | (RefSeq) TNFAIP3, A20, AISBL, 
+hsa:7132             K03158 tumor necrosis factor receptor superfamily member 1A | (RefSeq) TNFRSF1A, CD120a, FPF, TBP1,  
+hsa:7186             K03173 TNF receptor-associated factor 2 [EC:2.3.2.27] | (RefSeq) TRAF2, MGC:45012, RNF117, TRAP, TRA 
+hsa:7188             K09849 TNF receptor-associated factor 5 | (RefSeq) TRAF5, MGC:39780, RNF84; TNF receptor associated  
+hsa:723790           K11251 histone H2A | (RefSeq) H2AC19, H2A/R, H2AC18, HIST2H2AA4; H2A clustered histone 19 
+hsa:7297             K11219 non-receptor tyrosine-protein kinase TYK2 [EC:2.7.10.2] | (RefSeq) TYK2, IMD35, JTK1; tyrosin 
+hsa:7416             K05862 voltage-dependent anion channel protein 1 | (RefSeq) VDAC1, PORIN, VDAC-1; voltage dependent  
+hsa:7417             K15040 voltage-dependent anion channel protein 2 | (RefSeq) VDAC2, POR; voltage dependent anion chan 
+hsa:7419             K15041 voltage-dependent anion channel protein 3 | (RefSeq) VDAC3, HD-VDAC3, VDAC-3; voltage depende 
+hsa:79643            K12195 charged multivesicular body protein 6 | (RefSeq) CHMP6, VPS20; charged multivesicular body pr 
+hsa:81030            K12965 Z-DNA binding protein 1 | (RefSeq) ZBP1, C20orf183, DAI, DLM-1, DLM1; Z-DNA binding protein 1 
+hsa:815              K04515 calcium/calmodulin-dependent protein kinase (CaM kinase) II [EC:2.7.11.17] | (RefSeq) CAMK2A, 
+hsa:816              K04515 calcium/calmodulin-dependent protein kinase (CaM kinase) II [EC:2.7.11.17] | (RefSeq) CAMK2B, 
+hsa:817              K04515 calcium/calmodulin-dependent protein kinase (CaM kinase) II [EC:2.7.11.17] | (RefSeq) CAMK2D, 
+hsa:818              K04515 calcium/calmodulin-dependent protein kinase (CaM kinase) II [EC:2.7.11.17] | (RefSeq) CAMK2G, 
+hsa:81858            K20894 shank-associated RH domain-interacting protein | (RefSeq) SHARPIN, SIPL1; SHANK associated RH 
+hsa:823              K01367 calpain-1 [EC:3.4.22.52] | (RefSeq) CAPN1, CANP, CANP1, CANPL1, SPG76, muCANP, muCL; calpain  
+hsa:824              K03853 calpain-2 [EC:3.4.22.53] | (RefSeq) CAPN2, CANP2, CANPL2, CANPml, mCANP; calpain 2 
+hsa:8329             K11251 histone H2A | (RefSeq) H2AC13, H2A/c, H2AC11, H2AC15, H2AC16, H2AC17, H2AFC, HIST1H2AI; H2A c 
+hsa:8330             K11251 histone H2A | (RefSeq) H2AC15, H2A.1, H2A/d, H2AC11, H2AC13, H2AC14, H2AC16, H2AC17, H2AFD, H 
+hsa:8331             K11251 histone H2A | (RefSeq) H2AC14, H2A/E, H2AFE, HIST1H2AJ, dJ160A22.4; H2A clustered histone 14 
+hsa:8332             K11251 histone H2A | (RefSeq) H2AC16, H2A.i, H2A/i, H2AC11, H2AC13, H2AC15, H2AC17, H2AFI, HIST1H2AL 
+hsa:8334             K11251 histone H2A | (RefSeq) H2AC6, H2A/l, H2AFL, HIST1H2AC, dJ221C16.4; H2A clustered histone 6 
+hsa:8335             K11251 histone H2A | (RefSeq) H2AC4, H2A/m, H2AC8, H2AFM, HIST1H2AB; H2A clustered histone 4 
+hsa:8336             K11251 histone H2A | (RefSeq) H2AC17, H2A.1, H2A/n, H2AC11, H2AC13, H2AC15, H2AC16, H2AFN, HIST1H2AM 
+hsa:8337             K11251 histone H2A | (RefSeq) H2AC18, H2A, H2A.2, H2A/O, H2A/q, H2AC19, H2AFO, H2a-615, HIST2H2AA, H 
+hsa:8338             K11251 histone H2A | (RefSeq) H2AC20, H2A, H2A-GL101, H2A/q, H2AFQ, HIST2H2AC; H2A clustered histone 
+hsa:834              K01370 caspase 1 [EC:3.4.22.36] | (RefSeq) CASP1, ICE, IL1BC, P45; caspase 1 
+hsa:83447            K05863 solute carrier family 25 (mitochondrial adenine nucleotide translocator), member 4/5/6/31 | ( 
+hsa:83740            K11251 histone H2A | (RefSeq) H2AB3, H2AB2, H2ABBD, H2AFB, H2AFB3; H2A.B variant histone 3 
+hsa:841              K04398 caspase 8 [EC:3.4.22.61] | (RefSeq) CASP8, ALPS2B, CAP4, Casp-8, FLICE, MACH, MCH5; caspase 8 
+hsa:85235            K11251 histone H2A | (RefSeq) H2AC12, H2A/S, H2AFALii, H2AH, HIST1H2AH, dJ86C11.1; H2A clustered his 
+hsa:8605             K16342 cytosolic phospholipase A2 [EC:3.1.1.4] | (RefSeq) PLA2G4C, CPLA2-gamma; phospholipase A2 gro 
+hsa:8681             K16342 cytosolic phospholipase A2 [EC:3.1.1.4] | (RefSeq) JMJD7-PLA2G4B, HsT16992, cPLA2-beta; JMJD7 
+hsa:8717             K03171 tumor necrosis factor receptor type 1-associated DEATH domain protein | (RefSeq) TRADD, Hs.89 
+hsa:8737             K02861 receptor-interacting serine/threonine-protein kinase 1 [EC:2.7.11.1] | (RefSeq) RIPK1, AIEFL, 
+hsa:8743             K04721 tumor necrosis factor ligand superfamily member 10 | (RefSeq) TNFSF10, APO2L, Apo-2L, CD253,  
+hsa:8772             K02373 FAS-associated death domain protein | (RefSeq) FADD, GIG3, IMD90, MORT1; Fas associated via d 
+hsa:8795             K04722 tumor necrosis factor receptor superfamily member 10A/B | (RefSeq) TNFRSF10B, CD262, DR5, KIL 
+hsa:8797             K04722 tumor necrosis factor receptor superfamily member 10A/B | (RefSeq) TNFRSF10A, APO2, CD261, DR 
+hsa:8837             K04724 CASP8 and FADD-like apoptosis regulator | (RefSeq) CFLAR, CASH, CASP8AP1, CLARP, Casper, FLAM 
+hsa:8878             K14381 sequestosome 1 | (RefSeq) SQSTM1, A170, DMRV, FTDALS3, NADGP, OSIL, PDB3, ZIP3, p60, p62, p62 
+hsa:8969             K11251 histone H2A | (RefSeq) H2AC11, H2A.1b, H2A/p, H2AC13, H2AC15, H2AC16, H2AC17, H2AFP, H2AG, HI 
+hsa:90865            K12967 interleukin 33 | (RefSeq) IL33, C9orf26, DVS27, IL1F11, NF-HEV, NFEHEV; interleukin 33 
+hsa:9131             K04727 apoptosis-inducing factor 1 [EC:1.-.-.-] | (RefSeq) AIFM1, AIF, AUNX1, CMT2D, CMTX4, COWCK, C 
+hsa:91782            K15053 charged multivesicular body protein 7 | (RefSeq) CHMP7; charged multivesicular body protein 7 
+hsa:92421            K24782 charged multivesicular body protein 4C | (RefSeq) CHMP4C, SNF7-3, Shax3, VPS32C; charged mult 
+hsa:92815            K11251 histone H2A | (RefSeq) H2AW, HIST3H2A; H2A.W histone 
+hsa:94239            K11251 histone H2A | (RefSeq) H2AZ2, H2A.Z-2, H2AFV, H2AV; H2A.Z variant histone 2 
+hsa:9525             K12196 vacuolar protein-sorting-associated protein 4 | (RefSeq) VPS4B, MIG1, SKD1, SKD1B, VPS4-2; va 
+hsa:9555             K11251 histone H2A | (RefSeq) MACROH2A1, H2A.y, H2A/y, H2AF12M, H2AFY, MACROH2A1.1, mH2A1, macroH2A1 
+hsa:9825             K17595 spermatogenesis-associated protein 2 | (RefSeq) SPATA2, PD1, PPP1R145, tamo; spermatogenesis  

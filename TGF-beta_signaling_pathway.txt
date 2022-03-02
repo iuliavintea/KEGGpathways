@@ -1,0 +1,94 @@
+hsa:100532736        K19558 neuroblastoma suppressor of tumorigenicity 1 | (RefSeq) MICOS10-NBL1, C1orf151-NBL1, DAN, DAN 
+hsa:1030             K04685 cyclin-dependent kinase inhibitor 2B | (RefSeq) CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK 
+hsa:10468            K04661 follistatin | (RefSeq) FST, FS; follistatin 
+hsa:10637            K04668 left-right determination factor | (RefSeq) LEFTY1, LEFTB, LEFTYB; left-right determination fa 
+hsa:130399           K13568 activin receptor type-1C [EC:2.7.11.30] | (RefSeq) ACVR1C, ACVRLK7, ALK7; activin A receptor  
+hsa:1387             K04498 E1A/CREB-binding protein [EC:2.3.1.48] | (RefSeq) CREBBP, CBP, KAT3A, MKHK1, RSTS, RSTS1; CRE 
+hsa:148738           K23100 hemojuvelin | (RefSeq) HJV, HFE2, HFE2A, JH, RGMC; hemojuvelin BMP co-receptor 
+hsa:151449           K20013 growth differentiation factor 7 | (RefSeq) GDF7, BMP12; growth differentiation factor 7 
+hsa:1634             K04660 decorin | (RefSeq) DCN, CSCD, DSPG2, PG40, PGII, PGS2, SLRR1B; decorin 
+hsa:1874             K04682 transcription factor E2F4/5 | (RefSeq) E2F4, E2F-4; E2F transcription factor 4 
+hsa:1875             K04682 transcription factor E2F4/5 | (RefSeq) E2F5, E2F-5; E2F transcription factor 5 
+hsa:2033             K04498 E1A/CREB-binding protein [EC:2.3.1.48] | (RefSeq) EP300, KAT3B, MKHK2, RSTS2, p300; E1A bindi 
+hsa:2200             K06825 fibrillin 1 | (RefSeq) FBN1, ACMICD, ECTOL1, FBN, GPHYSD2, MASS, MFLS, MFS1, OCTD, SGS, SSKS, 
+hsa:2331             K08121 fibromodulin | (RefSeq) FMOD, FM, SLRR2E; fibromodulin 
+hsa:25805            K10162 BMP and activin membrane-bound inhibitor | (RefSeq) BAMBI, NMA; BMP and activin membrane boun 
+hsa:26585            K23318 gremlin | (RefSeq) GREM1, C15DUPq, CKTSF1B1, CRAC1, CRCS4, DAND2, DRM, DUP15q, GREMLIN, HMPS, 
+hsa:268              K04665 anti-mullerian hormone | (RefSeq) AMH, MIF, MIS; anti-Mullerian hormone 
+hsa:269              K04672 anti-mullerian hormone receptor type-2 [EC:2.7.11.30] | (RefSeq) AMHR2, AMHR, MISR2, MISRII,  
+hsa:285704           K06847 RGM domain family member B | (RefSeq) RGMB, DRAGON; repulsive guidance molecule BMP co-recept 
+hsa:3397             K04680 DNA-binding protein inhibitor ID1 | (RefSeq) ID1, ID, bHLHb24; inhibitor of DNA binding 1, HL 
+hsa:3398             K17693 DNA-binding protein inhibitor ID2 | (RefSeq) ID2, GIG8, ID2A, ID2H, bHLHb26; inhibitor of DNA 
+hsa:3399             K17694 DNA-binding protein inhibitor ID3 | (RefSeq) ID3, HEIR-1, bHLHb25; inhibitor of DNA binding 3 
+hsa:3400             K17695 DNA-binding protein inhibitor ID4 | (RefSeq) ID4, IDB4, bHLHb27; inhibitor of DNA binding 4,  
+hsa:3458             K04687 interferon gamma | (RefSeq) IFNG, IFG, IFI, IMD69; interferon gamma 
+hsa:353500           K16622 bone morphogenetic protein 8 | (RefSeq) BMP8A, OP-2; bone morphogenetic protein 8a 
+hsa:3624             K04667 inhibin beta A chain | (RefSeq) INHBA, EDF, FRP; inhibin subunit beta A 
+hsa:3625             K22687 inhibin beta B chain | (RefSeq) INHBB; inhibin subunit beta B 
+hsa:3626             K22688 inhibin beta C chain | (RefSeq) INHBC, IHBC; inhibin subunit beta C 
+hsa:387              K04513 Ras homolog gene family, member A | (RefSeq) RHOA, ARH12, ARHA, EDFAOB, RHO12, RHOH12; ras ho 
+hsa:392255           K20012 growth differentiation factor 6 | (RefSeq) GDF6, BMP-13, BMP13, CDMP2, KFM, KFS, KFS1, KFSL,  
+hsa:4052             K19559 latent transforming growth factor beta binding protein 1 | (RefSeq) LTBP1, ARCL2E; latent tra 
+hsa:4086             K04676 mothers against decapentaplegic homolog 1 | (RefSeq) SMAD1, BSP-1, BSP1, JV4-1, JV41, MADH1,  
+hsa:4087             K04500 mothers against decapentaplegic homolog 2 | (RefSeq) SMAD2, CHTD8, JV18, JV18-1, LDS6, MADH2, 
+hsa:4088             K23605 mothers against decapentaplegic homolog 3 | (RefSeq) SMAD3, HSPC193, HsT17436, JV15-2, LDS1C, 
+hsa:4089             K04501 mothers against decapentaplegic homolog 4 | (RefSeq) SMAD4, DPC4, JIP, MADH4, MYHRS; SMAD fam 
+hsa:4090             K16790 mothers against decapentaplegic homolog 5 | (RefSeq) SMAD5, DWFC, JV5-1, MADH5; SMAD family m 
+hsa:4091             K04677 mothers against decapentaplegic homolog 6 | (RefSeq) SMAD6, AOVD2, HsT17432, MADH6, MADH7; SM 
+hsa:4092             K19631 mothers against decapentaplegic homolog 7 | (RefSeq) SMAD7, CRCS3, MADH7, MADH8; SMAD family  
+hsa:4093             K16791 mothers against decapentaplegic homolog 9 | (RefSeq) SMAD9, MADH6, MADH9, PPH2, SMAD8, SMAD8/ 
+hsa:4609             K04377 Myc proto-oncogene protein | (RefSeq) MYC, MRTL, MYCC, bHLHe39, c-Myc; MYC proto-oncogene, bH 
+hsa:4681             K19558 neuroblastoma suppressor of tumorigenicity 1 | (RefSeq) NBL1, D1S1733E, DAN, DAND1, NB, NO3;  
+hsa:4756             K06766 neogenin | (RefSeq) NEO1, IGDCC2, NGN, NTN1R2; neogenin 1 
+hsa:4838             K04666 nodal | (RefSeq) NODAL, HTX5; nodal growth differentiation factor 
+hsa:5308             K04686 paired-like homeodomain transcription factor 2 | (RefSeq) PITX2, ARP1, ASGD4, Brx1, IDG2, IGD 
+hsa:5515             K04382 serine/threonine-protein phosphatase 2A catalytic subunit [EC:3.1.3.16] | (RefSeq) PPP2CA, NE 
+hsa:5516             K04382 serine/threonine-protein phosphatase 2A catalytic subunit [EC:3.1.3.16] | (RefSeq) PPP2CB, PP 
+hsa:5518             K03456 serine/threonine-protein phosphatase 2A regulatory subunit A | (RefSeq) PPP2R1A, MRD36, PP2A- 
+hsa:5519             K03456 serine/threonine-protein phosphatase 2A regulatory subunit A | (RefSeq) PPP2R1B, PP2A-Abeta,  
+hsa:5594             K04371 mitogen-activated protein kinase 1/3 [EC:2.7.11.24] | (RefSeq) MAPK1, ERK, ERK-2, ERK2, ERT1, 
+hsa:5595             K04371 mitogen-activated protein kinase 1/3 [EC:2.7.11.24] | (RefSeq) MAPK3, ERK-1, ERK1, ERT2, HS44 
+hsa:56963            K23096 repulsive guidance molecule A | (RefSeq) RGMA, RGM; repulsive guidance molecule BMP co-recept 
+hsa:57154            K04678 E3 ubiquitin ligase SMURF1/2 [EC:2.3.2.26] | (RefSeq) SMURF1; SMAD specific E3 ubiquitin prot 
+hsa:57817            K23106 hepcidin | (RefSeq) HAMP, HEPC, HFE2B, LEAP1, PLTR; hepcidin antimicrobial peptide 
+hsa:5933             K04681 retinoblastoma-like protein 1 | (RefSeq) RBL1, CP107, PRB1, p107; RB transcriptional corepres 
+hsa:60436            K19553 homeobox protein TGIF2 | (RefSeq) TGIF2; TGFB induced factor homeobox 2 
+hsa:6093             K04514 Rho-associated protein kinase 1 [EC:2.7.11.1] | (RefSeq) ROCK1, P160ROCK, ROCK-I; Rho associa 
+hsa:6198             K04688 ribosomal protein S6 kinase beta [EC:2.7.11.1] | (RefSeq) RPS6KB1, PS6K, S6K, S6K-beta-1, S6K 
+hsa:6199             K04688 ribosomal protein S6 kinase beta [EC:2.7.11.1] | (RefSeq) RPS6KB2, KLS, P70-beta, P70-beta-1, 
+hsa:64388            K23318 gremlin | (RefSeq) GREM2, CKTSF1B2, DAND3, PRDC, STHAG9; gremlin 2, DAN family BMP antagonist 
+hsa:64750            K04678 E3 ubiquitin ligase SMURF1/2 [EC:2.3.2.26] | (RefSeq) SMURF2; SMAD specific E3 ubiquitin prot 
+hsa:650              K21283 bone morphogenetic protein 2 | (RefSeq) BMP2, BDA2, BMP2A, SSFSC, SSFSC1; bone morphogenetic  
+hsa:6500             K03094 S-phase kinase-associated protein 1 | (RefSeq) SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A 
+hsa:652              K04662 bone morphogenetic protein 4 | (RefSeq) BMP4, BMP2B, BMP2B1, MCOPS6, OFC11, ZYME; bone morpho 
+hsa:653              K04663 bone morphogenetic protein 5 | (RefSeq) BMP5; bone morphogenetic protein 5 
+hsa:654              K16620 bone morphogenetic protein 6 | (RefSeq) BMP6, VGR, VGR1; bone morphogenetic protein 6 
+hsa:655              K16621 bone morphogenetic protein 7 | (RefSeq) BMP7, OP-1; bone morphogenetic protein 7 
+hsa:656              K16622 bone morphogenetic protein 8 | (RefSeq) BMP8B, BMP8, OP2; bone morphogenetic protein 8b 
+hsa:657              K04673 bone morphogenetic protein receptor type-1A [EC:2.7.11.30] | (RefSeq) BMPR1A, 10q23del, ACVRL 
+hsa:658              K13578 bone morphogenetic protein receptor type-1B [EC:2.7.11.30] | (RefSeq) BMPR1B, ALK-6, ALK6, AM 
+hsa:659              K04671 bone morphogenetic protein receptor type-2 [EC:2.7.11.30] | (RefSeq) BMPR2, BMPR-II, BMPR3, B 
+hsa:6667             K04684 transcription factor Sp1 | (RefSeq) SP1; Sp1 transcription factor 
+hsa:7027             K04683 transcription factor Dp-1 | (RefSeq) TFDP1, DILC, DP1, DRTF1, Dp-1; transcription factor Dp-1 
+hsa:7040             K13375 transforming growth factor beta-1 | (RefSeq) TGFB1, CED, DPD1, IBDIMDE, LAP, TGF-beta1, TGFB, 
+hsa:7042             K13376 transforming growth factor beta-2 | (RefSeq) TGFB2, G-TSF, LDS4, TGF-beta2; transforming grow 
+hsa:7043             K13377 transforming growth factor beta-3 | (RefSeq) TGFB3, ARVD, ARVD1, LDS5, RNHF, TGF-beta3; trans 
+hsa:7044             K04668 left-right determination factor | (RefSeq) LEFTY2, EBAF, LEFTA, LEFTYA, TGFB4; left-right det 
+hsa:7046             K04674 TGF-beta receptor type-1 [EC:2.7.11.30] | (RefSeq) TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1,  
+hsa:7048             K04388 TGF-beta receptor type-2 [EC:2.7.11.30] | (RefSeq) TGFBR2, AAT3, FAA3, LDS1B, LDS2, LDS2B, MF 
+hsa:7050             K19383 homeobox protein TGIF1 | (RefSeq) TGIF1, HPE4, TGIF; TGFB induced factor homeobox 1 
+hsa:7057             K16857 thrombospondin 1 | (RefSeq) THBS1, THBS, THBS-1, TSP, TSP-1, TSP1; thrombospondin 1 
+hsa:7124             K03156 tumor necrosis factor superfamily, member 2 | (RefSeq) TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNL 
+hsa:79875            K23377 thrombospondin type-1 domain-containing protein 4 | (RefSeq) THSD4, ADAMTSL-6, ADAMTSL6, FVSY 
+hsa:8200             K04664 growth differentiation factor 5 | (RefSeq) GDF5, BDA1C, BMP-14, BMP14, CDMP1, DUPANS, LAP-4,  
+hsa:83729            K22689 inhibin beta E chain | (RefSeq) INHBE; inhibin subunit beta E 
+hsa:8454             K03347 cullin 1 | (RefSeq) CUL1; cullin 1 
+hsa:8646             K04657 chordin | (RefSeq) CHRD; chordin 
+hsa:90               K04675 activin receptor type-1 [EC:2.7.11.30] | (RefSeq) ACVR1, ACTRI, ACVR1A, ACVRLK2, ALK2, FOP, S 
+hsa:91               K13567 activin receptor type-1B [EC:2.7.11.30] | (RefSeq) ACVR1B, ACTRIB, ACVRLK4, ALK4, SKR2; activ 
+hsa:92               K04670 activin receptor type-2A [EC:2.7.11.30] | (RefSeq) ACVR2A, ACTRII, ACVR2; activin A receptor  
+hsa:9241             K04658 noggin | (RefSeq) NOG, SYM1, SYNS1, SYNS1A; noggin 
+hsa:93               K13596 activin receptor type-2B [EC:2.7.11.30] | (RefSeq) ACVR2B, ACTRIIB, ActR-IIB, HTX4; activin A 
+hsa:9372             K04679 MAD, mothers against decapentaplegic interacting protein | (RefSeq) ZFYVE9, MADHIP, NSP, PPP1 
+hsa:9765             K04679 MAD, mothers against decapentaplegic interacting protein | (RefSeq) ZFYVE16, PPP1R69; zinc fi 
+hsa:9978             K03868 E3 ubiquitin-protein ligase RBX1 [EC:2.3.2.32] | (RefSeq) RBX1, BA554C12.1, RNF75, ROC1; ring 

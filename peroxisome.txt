@@ -1,0 +1,82 @@
+hsa:10005            K11992 acyl-CoA thioesterase 8 [EC:3.1.2.27] | (RefSeq) ACOT8, HNAACTE, NAP1, PTE-1, PTE-2, PTE1, PT 
+hsa:10455            K13239 Delta3-Delta2-enoyl-CoA isomerase [EC:5.3.3.8] | (RefSeq) ECI2, ACBD2, DRS-1, DRS1, HCA88, PE 
+hsa:10478            K13354 solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17 | (RefSeq) S 
+hsa:10654            K13273 phosphomevalonate kinase [EC:2.7.4.2] | (RefSeq) PMVK, HUMPMKI, PMK, PMKA, PMKASE, POROK1; ph 
+hsa:10901            K11147 dehydrogenase/reductase SDR family member 4 [EC:1.1.-.-] | (RefSeq) DHRS4, CR, NRDR, PHCR, PS 
+hsa:11001            K08746 solute carrier family 27 (fatty acid transporter), member 2 [EC:6.2.1.- 6.2.1.3] | (RefSeq) S 
+hsa:11264            K13350 peroxisomal membrane protein 4 | (RefSeq) PXMP4, PMP24; peroxisomal membrane protein 4 
+hsa:1384             K00624 carnitine O-acetyltransferase [EC:2.3.1.7] | (RefSeq) CRAT, CAT, CAT1, NBIA8; carnitine O-ace 
+hsa:1610             K00273 D-amino-acid oxidase [EC:1.4.3.3] | (RefSeq) DAO, DAAO, DAMOX, OXDA; D-amino acid oxidase 
+hsa:189              K00830 alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transamina 
+hsa:1891             K12663 Delta3,5-Delta2,4-dienoyl-CoA isomerase [EC:5.3.3.21] | (RefSeq) ECH1, HPXEL; enoyl-CoA hydra 
+hsa:1962             K07514 enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase [EC:4.2 
+hsa:196743           K00308 N1-acetylpolyamine oxidase [EC:1.5.3.13] | (RefSeq) PAOX, PAO; polyamine oxidase 
+hsa:2053             K08726 soluble epoxide hydrolase / lipid-phosphate phosphatase [EC:3.3.2.10 3.1.3.76] | (RefSeq) EPH 
+hsa:215              K05675 ATP-binding cassette, subfamily D (ALD), member 1 | (RefSeq) ABCD1, ABC42, ALD, ALDP, AMN; AT 
+hsa:2180             K01897 long-chain acyl-CoA synthetase [EC:6.2.1.3] | (RefSeq) ACSL1, ACS1, FACL1, FACL2, LACS, LACS1 
+hsa:2181             K01897 long-chain acyl-CoA synthetase [EC:6.2.1.3] | (RefSeq) ACSL3, ACS3, FACL3, LACS_3, LACS3, PRO 
+hsa:2182             K01897 long-chain acyl-CoA synthetase [EC:6.2.1.3] | (RefSeq) ACSL4, ACS4, FACL4, LACS4, MRX63, MRX6 
+hsa:225              K05676 ATP-binding cassette, subfamily D (ALD), member 2 | (RefSeq) ABCD2, ABC39, ALDL1, ALDR, ALDRP 
+hsa:23305            K01897 long-chain acyl-CoA synthetase [EC:6.2.1.3] | (RefSeq) ACSL6, ACS2, FACL6, LACS_6, LACS2, LAC 
+hsa:23417            K01578 malonyl-CoA decarboxylase [EC:4.1.1.9] | (RefSeq) MLYCD, MCD; malonyl-CoA decarboxylase 
+hsa:23600            K01796 alpha-methylacyl-CoA racemase [EC:5.1.99.4] | (RefSeq) AMACR, AMACRD, CBAS4, P504S, RACE, RM; 
+hsa:255027           K13349 Mpv17-like protein | (RefSeq) MPV17L, M-LPH, MLPH1, MLPH2, MPV17L1; MPV17 mitochondrial inner 
+hsa:25824            K11187 peroxiredoxin 5 [EC:1.11.1.24] | (RefSeq) PRDX5, ACR1, AOEB166, B166, HEL-S-55, PLP, PMP20, P 
+hsa:26061            K12261 2-hydroxyacyl-CoA lyase [EC:4.1.2.63] | (RefSeq) HACL1, 2-HPCL, HPCL, HPCL2, PHYH2; 2-hydroxy 
+hsa:26063            K13237 2,4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing], peroxisomal [EC:1.3.1.124] | (RefSeq) D 
+hsa:283927           K17879 peroxisomal coenzyme A diphosphatase NUDT7 [EC:3.6.1.-] | (RefSeq) NUDT7; nudix hydrolase 7 
+hsa:30               K07513 acetyl-CoA acyltransferase 1 [EC:2.3.1.16] | (RefSeq) ACAA1, ACAA, PTHIO, THIO; acetyl-CoA ac 
+hsa:3155             K01640 hydroxymethylglutaryl-CoA lyase [EC:4.1.3.4] | (RefSeq) HMGCL, HL; 3-hydroxy-3-methylglutaryl 
+hsa:3295             K12405 (3R)-3-hydroxyacyl-CoA dehydrogenase / 3a,7a,12a-trihydroxy-5b-cholest-24-enoyl-CoA hydratase 
+hsa:3417             K00031 isocitrate dehydrogenase [EC:1.1.1.42] | (RefSeq) IDH1, HEL-216, HEL-S-26, IDCD, IDH, IDP, ID 
+hsa:3418             K00031 isocitrate dehydrogenase [EC:1.1.1.42] | (RefSeq) IDH2, D2HGA2, ICD-M, IDH, IDHM, IDP, IDPM,  
+hsa:373156           K13299 glutathione S-transferase kappa 1 [EC:2.5.1.18] | (RefSeq) GSTK1, GST, GST_13-13, GST13, GST1 
+hsa:390916           K13355 nucleoside diphosphate-linked moiety X motif 19, mitochondrial [EC:3.6.1.-] | (RefSeq) NUDT19 
+hsa:4358             K13348 protein Mpv17 | (RefSeq) MPV17, CMT2EE, MTDPS6, SYM1; mitochondrial inner membrane protein MP 
+hsa:4598             K00869 mevalonate kinase [EC:2.7.1.36] | (RefSeq) MVK, LRBP, MK, MVLK, POROK3; mevalonate kinase 
+hsa:4843             K13241 nitric-oxide synthase, inducible [EC:1.14.13.39] | (RefSeq) NOS2, HEP-NOS, INOS, NOS, NOS2A;  
+hsa:5052             K13279 peroxiredoxin 1 [EC:1.11.1.24] | (RefSeq) PRDX1, MSP23, NKEF-A, NKEFA, PAG, PAGA, PAGB, PRX1, 
+hsa:51               K00232 acyl-CoA oxidase [EC:1.3.3.6] | (RefSeq) ACOX1, ACOX, MITCH, PALMCOX, SCOX; acyl-CoA oxidase  
+hsa:51179            K11517 (S)-2-hydroxy-acid oxidase [EC:1.1.3.15] | (RefSeq) HAO2, GIG16, HAOX2; hydroxyacid oxidase 2 
+hsa:51268            K00306 sarcosine oxidase / L-pipecolate oxidase [EC:1.5.3.1 1.5.3.7] | (RefSeq) PIPOX, LPIPOX; pipec 
+hsa:51555            K13342 peroxin-5 | (RefSeq) PEX5L, PEX5R, PEX5RP, PXR2, PXR2B, TRIP8b; peroxisomal biogenesis factor 
+hsa:51703            K01897 long-chain acyl-CoA synthetase [EC:6.2.1.3] | (RefSeq) ACSL5, ACS2, ACS5, FACL5; acyl-CoA syn 
+hsa:5189             K13338 peroxin-1 | (RefSeq) PEX1, HMLR1, PBD1A, PBD1B, ZWS, ZWS1; peroxisomal biogenesis factor 1 
+hsa:5190             K13339 peroxin-6 | (RefSeq) PEX6, HMLR2, PAF-2, PAF2, PBD4A, PDB4B, PXAAA1; peroxisomal biogenesis f 
+hsa:5191             K13341 peroxin-7 | (RefSeq) PEX7, PBD9B, PTS2R, RCDP1, RD; peroxisomal biogenesis factor 7 
+hsa:5192             K13346 peroxin-10 | (RefSeq) PEX10, NALD, PBD6A, PBD6B, RNF69; peroxisomal biogenesis factor 10 
+hsa:5193             K13345 peroxin-12 | (RefSeq) PEX12, PAF-3, PBD3A; peroxisomal biogenesis factor 12 
+hsa:5194             K13344 peroxin-13 | (RefSeq) PEX13, NALD, PBD11A, PBD11B, ZWS; peroxisomal biogenesis factor 13 
+hsa:5195             K13343 peroxin-14 | (RefSeq) PEX14, NAPP2, PBD13A, Pex14p, dJ734G22.2; peroxisomal biogenesis factor 
+hsa:5264             K00477 phytanoyl-CoA hydroxylase [EC:1.14.11.18] | (RefSeq) PHYH, LN1, LNAP1, PAHX, PHYH1, RD; phyta 
+hsa:54363            K11517 (S)-2-hydroxy-acid oxidase [EC:1.1.3.15] | (RefSeq) HAO1, GOX, GOX1, HAOX1; hydroxyacid oxida 
+hsa:54511            K01640 hydroxymethylglutaryl-CoA lyase [EC:4.1.3.4] | (RefSeq) HMGCLL1, ERCHL, bA418P12.1, er-cHL; 3 
+hsa:54677            K05940 carnitine O-octanoyltransferase [EC:2.3.1.137] | (RefSeq) CROT, COT; carnitine O-octanoyltran 
+hsa:55670            K13340 peroxin-26 | (RefSeq) PEX26, PBD7A, PBD7B, PEX26M1T, Pex26pM1T; peroxisomal biogenesis factor 
+hsa:55711            K13356 alcohol-forming fatty acyl-CoA reductase [EC:1.2.1.84] | (RefSeq) FAR2, HEL-S-81, MLSTD1, SDR 
+hsa:55825            K07753 peroxisomal trans-2-enoyl-CoA reductase [EC:1.3.1.38] | (RefSeq) PECR, DCRRP, HPDHASE, HSA250 
+hsa:570              K00659 bile acid-CoA:amino acid N-acyltransferase [EC:2.3.1.65 3.1.2.2] | (RefSeq) BAAT, BACAT, BACD 
+hsa:5824             K13337 peroxin-19 | (RefSeq) PEX19, D1S2223E, HK33, PBD12A, PMP1, PMPI, PXF, PXMP1; peroxisomal biog 
+hsa:5825             K05677 ATP-binding cassette, subfamily D (ALD), member 3 | (RefSeq) ABCD3, ABC43, CBAS5, PMP70, PXMP 
+hsa:5826             K05678 ATP-binding cassette, subfamily D (ALD), member 4 | (RefSeq) ABCD4, ABC41, EST352188, MAHCJ,  
+hsa:5827             K13347 peroxisomal membrane protein 2 | (RefSeq) PXMP2, MPV17L3, PMP22; peroxisomal membrane protein 
+hsa:5828             K06664 peroxin-2 | (RefSeq) PEX2, PAF1, PBD5A, PBD5B, PMP3, PMP35, PXMP3, RNF72, ZWS3; peroxisomal b 
+hsa:5830             K13342 peroxin-5 | (RefSeq) PEX5, PBD2A, PBD2B, PTS1-BP, PTS1R, PXR1, RCDP5; peroxisomal biogenesis  
+hsa:6342             K08764 sterol carrier protein 2 [EC:2.3.1.176] | (RefSeq) SCP2, NLTP, NSL-TP, SCOX, SCP-2, SCP-CHI,  
+hsa:6647             K04565 superoxide dismutase, Cu-Zn family [EC:1.15.1.1] | (RefSeq) SOD1, ALS, ALS1, HEL-S-44, IPOA,  
+hsa:6648             K04564 superoxide dismutase, Fe-Mn family [EC:1.15.1.1] | (RefSeq) SOD2, GClnc1, IPO-B, IPOB, MNSOD, 
+hsa:7498             K00106 xanthine dehydrogenase/oxidase [EC:1.17.1.4 1.17.3.2] | (RefSeq) XDH, XAN1, XO, XOR; xanthine 
+hsa:8309             K10214 3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA 24-hydroxylase [EC:1.17.99.3] | (RefS 
+hsa:8310             K00232 acyl-CoA oxidase [EC:1.3.3.6] | (RefSeq) ACOX3; acyl-CoA oxidase 3, pristanoyl 
+hsa:83594            K03426 NAD+ diphosphatase [EC:3.6.1.22] | (RefSeq) NUDT12; nudix hydrolase 12 
+hsa:84188            K13356 alcohol-forming fatty acyl-CoA reductase [EC:1.2.1.84] | (RefSeq) FAR1, CSPSD, MLSTD2, PFCRD, 
+hsa:8443             K00649 glyceronephosphate O-acyltransferase [EC:2.3.1.42] | (RefSeq) GNPAT, DAP-AT, DAPAT, DHAPAT, R 
+hsa:847              K03781 catalase [EC:1.11.1.6] | (RefSeq) CAT; catalase 
+hsa:84769            K13348 protein Mpv17 | (RefSeq) MPV17L2, FKSG24; MPV17 mitochondrial inner membrane protein like 2 
+hsa:8504             K13336 peroxin-3 | (RefSeq) PEX3, PBD10A, PBD10B, TRG18; peroxisomal biogenesis factor 3 
+hsa:8528             K00272 D-aspartate oxidase [EC:1.4.3.1] | (RefSeq) DDO, DASOX, DDO-1, DDO-2; D-aspartate oxidase 
+hsa:8540             K00803 alkyldihydroxyacetonephosphate synthase [EC:2.5.1.26] | (RefSeq) AGPS, ADAP-S, ADAS, ADHAPS,  
+hsa:8799             K13352 peroxin-11B | (RefSeq) PEX11B, PEX11-BETA, PEX11beta, PEX14B; peroxisomal biogenesis factor 1 
+hsa:8800             K13351 peroxin-11A | (RefSeq) PEX11A, PEX11-ALPHA, PEX11alpha, PMP28, hsPEX11p; peroxisomal biogenes 
+hsa:92960            K13353 peroxin-11C | (RefSeq) PEX11G, PEX11gamma; peroxisomal biogenesis factor 11 gamma 
+hsa:9409             K13335 peroxin-16 | (RefSeq) PEX16, PBD8A, PBD8B; peroxisomal biogenesis factor 16 

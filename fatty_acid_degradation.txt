@@ -1,0 +1,43 @@
+hsa:10449            K07508 acetyl-CoA acyltransferase 2 [EC:2.3.1.16] | (RefSeq) ACAA2, DSAEC; acetyl-CoA acyltransferas 
+hsa:10455            K13239 Delta3-Delta2-enoyl-CoA isomerase [EC:5.3.3.8] | (RefSeq) ECI2, ACBD2, DRS-1, DRS1, HCA88, PE 
+hsa:113612           K07422 long-chain fatty acid omega-monooxygenase [EC:1.14.14.80] | (RefSeq) CYP2U1, P450TEC, SPG49,  
+hsa:124              K13951 alcohol dehydrogenase 1/7 [EC:1.1.1.1] | (RefSeq) ADH1A, ADH1; alcohol dehydrogenase 1A (clas 
+hsa:125              K13951 alcohol dehydrogenase 1/7 [EC:1.1.1.1] | (RefSeq) ADH1B, ADH2, HEL-S-117; alcohol dehydrogena 
+hsa:126              K13951 alcohol dehydrogenase 1/7 [EC:1.1.1.1] | (RefSeq) ADH1C, ADH3; alcohol dehydrogenase 1C (clas 
+hsa:126129           K19524 carnitine O-palmitoyltransferase 1, brain isoform [EC:2.3.1.21] | (RefSeq) CPT1C, CATL1, CPT1 
+hsa:127              K13980 alcohol dehydrogenase 4 [EC:1.1.1.1] | (RefSeq) ADH4, ADH-2, HEL-S-4; alcohol dehydrogenase 4 
+hsa:128              K00121 S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1] | ( 
+hsa:130              K13952 alcohol dehydrogenase 6 [EC:1.1.1.1] | (RefSeq) ADH6, ADH-5; alcohol dehydrogenase 6 (class V 
+hsa:131              K13951 alcohol dehydrogenase 1/7 [EC:1.1.1.1] | (RefSeq) ADH7, ADH4; alcohol dehydrogenase 7 (class  
+hsa:1374             K08765 carnitine O-palmitoyltransferase 1, liver isoform [EC:2.3.1.21] | (RefSeq) CPT1A, CPT1, CPT1- 
+hsa:1375             K19523 carnitine O-palmitoyltransferase 1, muscle isoform [EC:2.3.1.21] | (RefSeq) CPT1B, CPT1-M, CP 
+hsa:1376             K08766 carnitine O-palmitoyltransferase 2 [EC:2.3.1.21] | (RefSeq) CPT2, CPT1, CPTASE, IIAE4; carnit 
+hsa:1632             K13238 Delta3-Delta2-enoyl-CoA isomerase [EC:5.3.3.8] | (RefSeq) ECI1, DCI; enoyl-CoA delta isomeras 
+hsa:1892             K07511 enoyl-CoA hydratase [EC:4.2.1.17] | (RefSeq) ECHS1, ECHS1D, SCEH; enoyl-CoA hydratase, short  
+hsa:1962             K07514 enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase [EC:4.2 
+hsa:217              K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] | (RefSeq) ALDH2, ALDH-E2, ALDHI, ALDM; aldehyde d 
+hsa:2180             K01897 long-chain acyl-CoA synthetase [EC:6.2.1.3] | (RefSeq) ACSL1, ACS1, FACL1, FACL2, LACS, LACS1 
+hsa:2181             K01897 long-chain acyl-CoA synthetase [EC:6.2.1.3] | (RefSeq) ACSL3, ACS3, FACL3, LACS_3, LACS3, PRO 
+hsa:2182             K01897 long-chain acyl-CoA synthetase [EC:6.2.1.3] | (RefSeq) ACSL4, ACS4, FACL4, LACS4, MRX63, MRX6 
+hsa:219              K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] | (RefSeq) ALDH1B1, ALDH5, ALDHX; aldehyde dehydro 
+hsa:223              K00149 aldehyde dehydrogenase family 9 member A1 [EC:1.2.1.47 1.2.1.3] | (RefSeq) ALDH9A1, ALDH4, AL 
+hsa:224              K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] | (RefSeq) ALDH3A2, ALDH10, FALDH, SLS; aldehyde d 
+hsa:23205            K15013 long-chain-fatty-acid--CoA ligase ACSBG [EC:6.2.1.3] | (RefSeq) ACSBG1, BG, BG1, BGM, GR-LACS 
+hsa:23305            K01897 long-chain acyl-CoA synthetase [EC:6.2.1.3] | (RefSeq) ACSL6, ACS2, FACL6, LACS_6, LACS2, LAC 
+hsa:2639             K00252 glutaryl-CoA dehydrogenase [EC:1.3.8.6] | (RefSeq) GCDH, ACAD5, GCD; glutaryl-CoA dehydrogena 
+hsa:30               K07513 acetyl-CoA acyltransferase 1 [EC:2.3.1.16] | (RefSeq) ACAA1, ACAA, PTHIO, THIO; acetyl-CoA ac 
+hsa:3030             K07515 enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.211] | (R 
+hsa:3032             K07509 acetyl-CoA acyltransferase [EC:2.3.1.16] | (RefSeq) HADHB, ECHB, MSTP029, MTPB, TP-BETA; hydr 
+hsa:3033             K00022 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35] | (RefSeq) HADH, HAD, HADH1, HADHSC, HCDH, HHF4 
+hsa:33               K00255 long-chain-acyl-CoA dehydrogenase [EC:1.3.8.8] | (RefSeq) ACADL, ACAD4, LCAD; acyl-CoA dehydr 
+hsa:34               K00249 acyl-CoA dehydrogenase [EC:1.3.8.7] | (RefSeq) ACADM, ACAD1, MCAD, MCADH; acyl-CoA dehydrogen 
+hsa:35               K00248 butyryl-CoA dehydrogenase [EC:1.3.8.1] | (RefSeq) ACADS, ACAD3, SCAD; acyl-CoA dehydrogenase  
+hsa:36               K09478 short-chain 2-methylacyl-CoA dehydrogenase [EC:1.3.8.5] | (RefSeq) ACADSB, 2-MEBCAD, ACAD7, S 
+hsa:37               K09479 very long chain acyl-CoA dehydrogenase [EC:1.3.8.9] | (RefSeq) ACADVL, ACAD6, LCACD, VLCAD; a 
+hsa:38               K00626 acetyl-CoA C-acetyltransferase [EC:2.3.1.9] | (RefSeq) ACAT1, ACAT, MAT, T2, THIL; acetyl-CoA 
+hsa:39               K00626 acetyl-CoA C-acetyltransferase [EC:2.3.1.9] | (RefSeq) ACAT2; acetyl-CoA acetyltransferase 2 
+hsa:501              K14085 aldehyde dehydrogenase family 7 member A1 [EC:1.2.1.31 1.2.1.8 1.2.1.3] | (RefSeq) ALDH7A1, A 
+hsa:51               K00232 acyl-CoA oxidase [EC:1.3.3.6] | (RefSeq) ACOX1, ACOX, MITCH, PALMCOX, SCOX; acyl-CoA oxidase  
+hsa:51703            K01897 long-chain acyl-CoA synthetase [EC:6.2.1.3] | (RefSeq) ACSL5, ACS2, ACS5, FACL5; acyl-CoA syn 
+hsa:81616            K15013 long-chain-fatty-acid--CoA ligase ACSBG [EC:6.2.1.3] | (RefSeq) ACSBG2, BGR, BRGL, PRTD-NY3,  
+hsa:8310             K00232 acyl-CoA oxidase [EC:1.3.3.6] | (RefSeq) ACOX3; acyl-CoA oxidase 3, pristanoyl 

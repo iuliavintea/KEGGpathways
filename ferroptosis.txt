@@ -1,0 +1,41 @@
+hsa:10162            K13515 lysophospholipid acyltransferase 5 [EC:2.3.1.23 2.3.1.-] | (RefSeq) LPCAT3, C3F, LPCAT, LPLAT 
+hsa:10533            K08337 ubiquitin-like modifier-activating enzyme ATG7 | (RefSeq) ATG7, APG7-LIKE, APG7L, GSA7, SCAR3 
+hsa:112483           K00657 diamine N-acetyltransferase [EC:2.3.1.57] | (RefSeq) SAT2, SSAT-2, SSAT2; spermidine/spermine 
+hsa:1356             K13624 ceruloplasmin [EC:1.16.3.1] | (RefSeq) CP, AB073614, CP-2; ceruloplasmin 
+hsa:1536             K21421 NADPH oxidase 2 [EC:1.-.-.-] | (RefSeq) CYBB, AMCBX2, CGD, CGDX, GP91-1, GP91-PHOX, GP91PHOX, 
+hsa:2180             K01897 long-chain acyl-CoA synthetase [EC:6.2.1.3] | (RefSeq) ACSL1, ACS1, FACL1, FACL2, LACS, LACS1 
+hsa:2181             K01897 long-chain acyl-CoA synthetase [EC:6.2.1.3] | (RefSeq) ACSL3, ACS3, FACL3, LACS_3, LACS3, PRO 
+hsa:2182             K01897 long-chain acyl-CoA synthetase [EC:6.2.1.3] | (RefSeq) ACSL4, ACS4, FACL4, LACS4, MRX63, MRX6 
+hsa:23305            K01897 long-chain acyl-CoA synthetase [EC:6.2.1.3] | (RefSeq) ACSL6, ACS2, FACL6, LACS_6, LACS2, LAC 
+hsa:23516            K14720 solute carrier family 39 (zinc transporter), member 14 | (RefSeq) SLC39A14, HCIN, HMNDYT2, LZ 
+hsa:23657            K13869 solute carrier family 7 (L-type amino acid transporter), member 11 | (RefSeq) SLC7A11, CCBR1, 
+hsa:246              K00460 arachidonate 15-lipoxygenase [EC:1.13.11.33] | (RefSeq) ALOX15, 12-LOX, 15-LOX, 15-LOX-1, LOG 
+hsa:2495             K00522 ferritin heavy chain [EC:1.16.3.2] | (RefSeq) FTH1, FHC, FTH, FTHL6, HFE5, PIG15, PLIF; ferri 
+hsa:2512             K13625 ferritin light chain | (RefSeq) FTL, LFTD, NBIA3; ferritin light chain 
+hsa:2729             K11204 glutamate--cysteine ligase catalytic subunit [EC:6.3.2.2] | (RefSeq) GCLC, GCL, GCS, GLCL, GL 
+hsa:2730             K11205 glutamate--cysteine ligase regulatory subunit | (RefSeq) GCLM, GLCLR; glutamate-cysteine liga 
+hsa:2879             K05361 phospholipid-hydroperoxide glutathione peroxidase [EC:1.11.1.12] | (RefSeq) GPX4, GPx-4, GSHP 
+hsa:2937             K21456 glutathione synthase [EC:6.3.2.3] | (RefSeq) GSS, GSHS, HEL-S-64p, HEL-S-88n; glutathione syn 
+hsa:30061            K14685 solute carrier family 40 (iron-regulated transporter), member 1 | (RefSeq) SLC40A1, FPN1, HFE 
+hsa:3162             K00510 heme oxygenase 1 [EC:1.14.14.18] | (RefSeq) HMOX1, HMOX1D, HO-1, HSP32, bK286B10; heme oxygen 
+hsa:440738           K10435 microtubule-associated protein 1 light chain | (RefSeq) MAP1LC3C, ATG8J, LC3C; microtubule as 
+hsa:4891             K21398 natural resistance-associated macrophage protein 2 | (RefSeq) SLC11A2, AHMIO1, DCT1, DMT1, NR 
+hsa:5093             K12889 poly(rC)-binding protein 1 | (RefSeq) PCBP1, HEL-S-85, HNRPE1, HNRPX, hnRNP-E1, hnRNP-X; poly 
+hsa:5094             K13162 poly(rC)-binding protein 2 | (RefSeq) PCBP2, HNRNPE2, HNRPE2, hnRNP-E2; poly(rC) binding prot 
+hsa:51703            K01897 long-chain acyl-CoA synthetase [EC:6.2.1.3] | (RefSeq) ACSL5, ACS2, ACS5, FACL5; acyl-CoA syn 
+hsa:55240            K10142 metalloreductase STEAP3 [EC:1.16.1.-] | (RefSeq) STEAP3, AHMIO2, STMP3, TSAP6, dudlin-2, dudu 
+hsa:5621             K05634 prion protein | (RefSeq) PRNP, ASCR, AltPrP, CD230, CJD, GSS, KURU, PRIP, PrP, PrP27-30, PrP3 
+hsa:6303             K00657 diamine N-acetyltransferase [EC:2.3.1.57] | (RefSeq) SAT1, DC21, KFSD, KFSDX, SAT, SSAT, SSAT 
+hsa:64116            K14714 solute carrier family 39 (zinc transporter), member 8 | (RefSeq) SLC39A8, BIGM103, CDG2N, LZT 
+hsa:643246           K10435 microtubule-associated protein 1 light chain | (RefSeq) MAP1LC3B2, ATG8G; microtubule associa 
+hsa:6520             K06519 solute carrier family 3, member 2 | (RefSeq) SLC3A2, 4F2, 4F2HC, 4T2HC, CD98, CD98HC, MDU1, N 
+hsa:7018             K14736 transferrin | (RefSeq) TF, HEL-S-71p, PRO1557, PRO2086, TFQTL1; transferrin 
+hsa:7037             K06503 transferrin receptor | (RefSeq) TFRC, CD71, IMD46, T9, TFR, TFR1, TR, TRFR, p90; transferrin  
+hsa:7157             K04451 tumor protein p53 | (RefSeq) TP53, BCC7, BMFS5, LFS1, P53, TRP53; tumor protein p53 
+hsa:7417             K15040 voltage-dependent anion channel protein 2 | (RefSeq) VDAC2, POR; voltage dependent anion chan 
+hsa:7419             K15041 voltage-dependent anion channel protein 3 | (RefSeq) VDAC3, HD-VDAC3, VDAC-3; voltage depende 
+hsa:8031             K09289 nuclear receptor coactivator 4 | (RefSeq) NCOA4, ARA70, ELE1, PTC3, RFG; nuclear receptor coa 
+hsa:81631            K10435 microtubule-associated protein 1 light chain | (RefSeq) MAP1LC3B, ATG8F, LC3B, MAP1A/1BLC3, M 
+hsa:84557            K10435 microtubule-associated protein 1 light chain | (RefSeq) MAP1LC3A, ATG8E, LC3, LC3A, MAP1ALC3, 
+hsa:94033            K18495 ferritin, mitochondrial | (RefSeq) FTMT, MTF; ferritin mitochondrial 
+hsa:9474             K08339 autophagy-related protein 5 | (RefSeq) ATG5, APG5, APG5-LIKE, APG5L, ASP, SCAR25, hAPG5; auto 

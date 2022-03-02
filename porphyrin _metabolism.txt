@@ -1,0 +1,43 @@
+hsa:10720            K00699 glucuronosyltransferase [EC:2.4.1.17] | (RefSeq) UGT2B11; UDP glucuronosyltransferase family  
+hsa:10941            K00699 glucuronosyltransferase [EC:2.4.1.17] | (RefSeq) UGT2A1, UDPGT2A1; UDP glucuronosyltransferas 
+hsa:124454           K01885 glutamyl-tRNA synthetase [EC:6.1.1.17] | (RefSeq) EARS2, COXPD12, MSE1, gluRS, mtGlnRS; gluta 
+hsa:1352             K02257 heme o synthase [EC:2.5.1.141] | (RefSeq) COX10, MC4DN3; cytochrome c oxidase assembly factor 
+hsa:1355             K02259 heme a synthase [EC:1.17.99.9] | (RefSeq) COX15, CEMCOX2, MC4DN6; cytochrome c oxidase assemb 
+hsa:1356             K13624 ceruloplasmin [EC:1.16.3.1] | (RefSeq) CP, AB073614, CP-2; ceruloplasmin 
+hsa:1371             K00228 coproporphyrinogen III oxidase [EC:1.3.3.3] | (RefSeq) CPOX, COX, CPO, CPX, HARPO, HCP; copro 
+hsa:2058             K14163 bifunctional glutamyl/prolyl-tRNA synthetase [EC:6.1.1.17 6.1.1.15] | (RefSeq) EPRS1, EARS, E 
+hsa:210              K01698 porphobilinogen synthase [EC:4.2.1.24] | (RefSeq) ALAD, ALADH, PBGS; aminolevulinate dehydrat 
+hsa:211              K00643 5-aminolevulinate synthase [EC:2.3.1.37] | (RefSeq) ALAS1, ALAS, ALAS-H, ALAS3, ALASH, MIG4;  
+hsa:212              K00643 5-aminolevulinate synthase [EC:2.3.1.37] | (RefSeq) ALAS2, ALAS-E, ALASE, ANH1, ASB, SIDBA1,  
+hsa:2235             K01772 protoporphyrin/coproporphyrin ferrochelatase [EC:4.98.1.1 4.99.1.9] | (RefSeq) FECH, EPP, EPP 
+hsa:2395             K19054 frataxin [EC:1.16.3.1] | (RefSeq) FXN, CyaY, FA, FARR, FRDA, X25; frataxin 
+hsa:2990             K01195 beta-glucuronidase [EC:3.2.1.31] | (RefSeq) GUSB, BG, MPS7; glucuronidase beta 
+hsa:3052             K01764 cytochrome c heme-lyase [EC:4.4.1.17] | (RefSeq) HCCS, CCHL, LSDMCA1, MCOPS7, MLS; holocytoch 
+hsa:3145             K01749 hydroxymethylbilane synthase [EC:2.5.1.61] | (RefSeq) HMBS, PBG-D, PBGD, PORC, UPS; hydroxyme 
+hsa:3162             K00510 heme oxygenase 1 [EC:1.14.14.18] | (RefSeq) HMOX1, HMOX1D, HO-1, HSP32, bK286B10; heme oxygen 
+hsa:3163             K21418 heme oxygenase 2 [EC:1.14.14.18] | (RefSeq) HMOX2, HO-2; heme oxygenase 2 
+hsa:326625           K00798 cob(I)alamin adenosyltransferase [EC:2.5.1.17] | (RefSeq) MMAB, ATR, CFAP23, cblB, cob; metab 
+hsa:341208           K14735 hephaestin [EC:1.16.3.1] | (RefSeq) HEPHL1, HJDD, ZP; hephaestin like 1 
+hsa:54490            K00699 glucuronosyltransferase [EC:2.4.1.17] | (RefSeq) UGT2B28; UDP glucuronosyltransferase family  
+hsa:54575            K00699 glucuronosyltransferase [EC:2.4.1.17] | (RefSeq) UGT1A10, GNT1, UDPGT, UGT-1A, UGT-1J, UGT1,  
+hsa:54576            K00699 glucuronosyltransferase [EC:2.4.1.17] | (RefSeq) UGT1A8, GNT1, UDPGT, UDPGT_1-1, UDPGT_1-8, U 
+hsa:54577            K00699 glucuronosyltransferase [EC:2.4.1.17] | (RefSeq) UGT1A7, GNT1, UDPGT, UDPGT_1-7, UGT-1A, UGT- 
+hsa:54578            K00699 glucuronosyltransferase [EC:2.4.1.17] | (RefSeq) UGT1A6, GNT1, HLUGP, HLUGP1, UDPGT, UDPGT_1- 
+hsa:54579            K00699 glucuronosyltransferase [EC:2.4.1.17] | (RefSeq) UGT1A5, UDPGT, UDPGT_1-5, UGT1E; UDP glucuro 
+hsa:54600            K00699 glucuronosyltransferase [EC:2.4.1.17] | (RefSeq) UGT1A9, HLUGP4, LUGP4, UDPGT, UDPGT_1-9, UGT 
+hsa:54657            K00699 glucuronosyltransferase [EC:2.4.1.17] | (RefSeq) UGT1A4, GNT1, HUG-BR2, UDPGT, UDPGT_1-4, UGT 
+hsa:54658            K00699 glucuronosyltransferase [EC:2.4.1.17] | (RefSeq) UGT1A1, BILIQTL1, GNT1, HUG-BR1, UDPGT, UDPG 
+hsa:54659            K00699 glucuronosyltransferase [EC:2.4.1.17] | (RefSeq) UGT1A3, UDPGT, UDPGT_1-3, UGT-1C, UGT1-03, U 
+hsa:5498             K00231 protoporphyrinogen/coproporphyrinogen III oxidase [EC:1.3.3.4 1.3.3.15] | (RefSeq) PPOX, PPO, 
+hsa:574537           K00699 glucuronosyltransferase [EC:2.4.1.17] | (RefSeq) UGT2A2, UDPGT_2A2; UDP glucuronosyltransfera 
+hsa:644              K00214 biliverdin reductase [EC:1.3.1.24] | (RefSeq) BLVRA, BLVR, BVR, BVRA; biliverdin reductase A 
+hsa:645              K05901 biliverdin reductase / flavin reductase [EC:1.3.1.24 1.5.1.30] | (RefSeq) BLVRB, BVRB, FLR, H 
+hsa:7363             K00699 glucuronosyltransferase [EC:2.4.1.17] | (RefSeq) UGT2B4, HLUG25, UDPGT2B4, UDPGTH1, UDPGTh-1, 
+hsa:7364             K00699 glucuronosyltransferase [EC:2.4.1.17] | (RefSeq) UGT2B7, UDPGT_2B7, UDPGT_2B9, UDPGT2B7, UDPG 
+hsa:7365             K00699 glucuronosyltransferase [EC:2.4.1.17] | (RefSeq) UGT2B10, UDPGT2B10; UDP glucuronosyltransfer 
+hsa:7366             K00699 glucuronosyltransferase [EC:2.4.1.17] | (RefSeq) UGT2B15, HLUG4, UDPGT_2B8, UDPGT2B15, UDPGTH 
+hsa:7367             K00699 glucuronosyltransferase [EC:2.4.1.17] | (RefSeq) UGT2B17, BMND12, UDPGT2B17; UDP glucuronosyl 
+hsa:7389             K01599 uroporphyrinogen decarboxylase [EC:4.1.1.37] | (RefSeq) UROD, PCT, UPD; uroporphyrinogen deca 
+hsa:7390             K01719 uroporphyrinogen-III synthase [EC:4.2.1.75] | (RefSeq) UROS, UROIIIS; uroporphyrinogen III sy 
+hsa:79799            K00699 glucuronosyltransferase [EC:2.4.1.17] | (RefSeq) UGT2A3; UDP glucuronosyltransferase family 2 
+hsa:9843             K14735 hephaestin [EC:1.16.3.1] | (RefSeq) HEPH, CPL; hephaestin 
